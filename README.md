@@ -51,6 +51,7 @@ To contribute:
 <!-- PROGRAMS_TABLE_START -->
 | Company | Program | Type | Location | Application | Date Posted |
 | ------- | ------- | ---- | -------- | ----------- | ----------- |
+| Wells Fargo | CTRL Your Career Tech Summit - Sophomore Edition | Tech Summit | United States | <a href="https://talent.wellsfargojobs.com/flows/ctrl-your-career-wells-fargo-tech-summit-sophomore-edition-v_qkasi-v"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 22 |
 | WomenHack | Women in Tech Career Fair | Career Fair | Multiple US Cities | <a href="https://womenhack.com/events/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 19 |
 | Rewriting the Code | RTC Fellowship Program | Fellowship | United States, Canada | <a href="https://rewritingthecode.org/fellowship/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 19 |
 | Outreachy | Open Source Internship - May 2026 :lock: | Internship | Remote | :lock: | Mar 19 |
@@ -58,7 +59,7 @@ To contribute:
 | Global Career Accelerator | Career Accelerator Program | Program | Virtual | <a href="https://globalcareeraccelerator.org/app/events/9b62dcae-3ad1-4c5e-a638-ef6c68dcffc7"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 19 |
 | Fidelity Investments | FidHacks | Hackathon | Multiple Locations | <a href="https://fmr.co1.qualtrics.com/jfe/form/SV_0w6U13HT35susvQ?gh_src=Handshake&iisn=Handshake&iis=Handshake&src=Handshake&source=Handshake&ref=Handshake&referral=Handshake&__jvst=Handshake&__jvsd=Handshake&sourceDetails=Handshake&trid=Handshake&lever-source%5B%5D=Handshake&Source=Handshake&rb=Handshake&jobBoardSource=Handshake&channel=Handshake&rcid=Handshake"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 19 |
 | Hudson River Trading | Inside HRT | Externship | New York City, NY | <a href="https://www.hudsonrivertrading.com/hrt-job/inside-hrt/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 04 |
-| GE Aerospace | L.I.F.T. Summit :us: | Recruiting Event | Cincinnati, OH | <a href="https://careers.geaerospace.com/global/en/lift-summit"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Feb 23 |
+| GE Aerospace | L.I.F.T. Summit :us: :lock: | Recruiting Event | Cincinnati, OH | :lock: | Feb 23 |
 | NASA L'SPACE Academy | Mission Concept Academy :us: | Program | Multiple Locations | <a href="https://www.lspace.asu.edu/mission-concept-academy"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Feb 19 |
 | Liberty Mutual | 2026 Unite Summit - Exploratory Program | Discovery Program | Boston, MA | <a href="https://campus-libertymutual.icims.com/jobs/74387/2026-unite-summit---exploratory-program/job"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Feb 19 |
 | Hudson River Trading | Explore HRT - NYC :lock: | Program | New York, NY | :lock: | Feb 19 |
