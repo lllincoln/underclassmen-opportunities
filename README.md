@@ -30,6 +30,7 @@ To contribute:
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
 | Chewy Inc | Software Engineer I Intern | Boston, MA | <a href="https://careers.chewy.com/us/en/job/R28466/Software-Engineer-I-Intern"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Feb 04 |
+| Partiful | Campus Growth Manager | Remote, US | <a href="https://jobs.ashbyhq.com/partiful/af908f89-626d-4d26-a851-a39ba62737ff"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 28 |
 <!-- INTERNSHIPS_TABLE_END -->
 
 ---
@@ -39,6 +40,9 @@ To contribute:
 <!-- PROGRAMS_TABLE_START -->
 | Company | Program | Type | Location | Application | Date Posted |
 | ------- | ------- | ---- | -------- | ----------- | ----------- |
+| Google | Google Summer of Code 2026 | Fellowship | Remote | <a href="https://summerofcode.withgoogle.com/programs/2026"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 28 |
+| MLH (Major League Hacking) | MLH Fellowship | Fellowship | Remote | <a href="https://fellowship.mlh.io/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 28 |
+| Students Rising Above (SRA) | SOAR First-Year Program | Mentorship Program | Remote, US | <a href="https://sra.tfaforms.net/f/26_FirstYearSOAR"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 28 |
 <!-- PROGRAMS_TABLE_END -->
 
 ---
@@ -48,6 +52,7 @@ To contribute:
 <!-- RESEARCH_TABLE_START -->
 | University/Organization | Program | Field | Location | Application | Date Posted |
 | ----------------------- | ------- | ----- | -------- | ----------- | ----------- |
+| MIT Libraries | Women@MIT Fellowship | Women's History / STEM | Cambridge, MA | <a href="https://libguides.mit.edu/c.php?g=991573&p=10064824"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 28 |
 <!-- RESEARCH_TABLE_END -->
 
 ---
