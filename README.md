@@ -53,6 +53,9 @@ To contribute:
 <!-- PROGRAMS_TABLE_START -->
 | Company | Program | Type | Location | Application | Date Posted |
 | ------- | ------- | ---- | -------- | ----------- | ----------- |
+| AWS | Cloud Club Captain | Leadership Program | Multiple Locations | <a href="https://pulse.aws/application/PXZWJ2DQ/new?p=0"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 02 |
+| GoDaddy | 2026 Future of Work Summer Camp | Pre-Internship Program | Kirkland, WA | <a href="https://careers.godaddy/summercamp"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 02 |
+| Handshake | AI Fellowship Program | Fellowship | Remote | <a href="https://joinhandshake.com/ai/referral?referralCode=1F636E&utm_source=referral"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 02 |
 | UNCF | HBCU Future Leaders Institute | Leadership Institute | Atlanta, GA | <a href="https://docs.google.com/forms/d/e/1FAIpQLSeHWN1F69NwYttH5CGp5ir4bfd_4ZdIMvu86KFyutVLbi59kA/viewform"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 23 |
 | Wells Fargo | CTRL Your Career Tech Summit - Sophomore Edition | Tech Summit | United States | <a href="https://talent.wellsfargojobs.com/flows/ctrl-your-career-wells-fargo-tech-summit-sophomore-edition-v_qkasi-v"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 22 |
 | Global Career Accelerator | Career Accelerator Program | Program | Virtual | <a href="https://globalcareeraccelerator.org/app/events/9b62dcae-3ad1-4c5e-a638-ef6c68dcffc7"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 20 |
@@ -124,6 +127,7 @@ To contribute:
 | Organization | Scholarship | Amount | Application | Deadline |
 | ------------ | ----------- | ------ | ----------- | -------- |
 | CrowdStrike | Next Gen Scholarship | $2,500 - $10,000 | <a href="https://scholarshipamerica.org/scholarship/next-gen/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 27, 2026 |
+| Last Mile Education Fund x Microsoft | Microsoft Cybersecurity Scholarship | Up to $875 | <a href="https://www.lastmile-ed.org/microsoftcybersecurityscholarship"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Rolling |
 | Advancing Women in Technology | AWT Scholarship 2026 | Varies | <a href="https://apply.mykaleidoscope.com/program/AWTScholarship2026"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Check Portal |
 | Chime | Chime Scholars Foundation | Up to $20,000 | <a href="https://www.chime.com/about-us/chime-scholars-foundation/#interested-in-applying"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 31, 2026 |
 | Guild Giving Foundation | Guild Giving National Scholarship | $1,500 | <a href="https://scholarshipamerica.org/scholarship/guildgiving/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 10, 2026 |
