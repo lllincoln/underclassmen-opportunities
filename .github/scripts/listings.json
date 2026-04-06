@@ -1798,5 +1798,27 @@
     "date_posted": 1774656000,
     "date_updated": 1774656000,
     "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "0c716a8d-2ae4-489f-9761-9e4403563345",
+    "company_name": "mcievents.com",
+    "title": "2026 NSN Student Sales & Marketing Conference",
+    "url": "https://plus.mcievents.com/event/82045c6a-f96b-43af-9944-670ab6957417/register?rt=K34qubuTukm3UynsGVmWQQ&environment=P2",
+    "locations": [
+      "Multiple Locations"
+    ],
+    "season": "Multiple",
+    "category": "Program",
+    "opportunity_type": "Conference",
+    "target_year": [
+      "Freshman (1st year)",
+      "Sophomore (2nd year)"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1775512113,
+    "date_updated": 1775512113,
+    "source": "Jose-Gael-Cruz-Lopez"
   }
 ]
