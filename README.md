@@ -37,9 +37,9 @@ To contribute:
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
 | Five Rings LLC | Winter Intern 2027 - Quantitative Trader | New York | <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/5122638008"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Feb 20 |
+| Micron | Intern - Automation | Boise, ID | <a href="https://micron.eightfold.ai/careers?pid=40815481"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 23 |
 | Schonfeld | 2026 Quantitative Developer Execution Services Sophomore Summer Internship :lock: | New York, New York, United States | :lock: | Feb 20 |
 | Deloitte | Audit & Assurance - Discovery Intern (Sophomore/Junior) - Summer 2026 :lock: | Los Angeles, CA, Seattle, WA, Tempe, AZ | :lock: | Feb 19 |
-| Micron | Intern - Automation | Boise, ID | <a href="https://micron.eightfold.ai/careers?pid=40815481"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 23 |
 <!-- INTERNSHIPS_TABLE_END -->
 
 ---
@@ -52,25 +52,26 @@ To contribute:
 <!-- PROGRAMS_TABLE_START -->
 | Company | Program | Type | Location | Application | Date Posted |
 | ------- | ------- | ---- | -------- | ----------- | ----------- |
+| Equitech Futures | Equitech Futures Institute | 8-Week Program | Virtual | <a href="https://www.equitechfutures.com/programs/efi"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 06 |
 | AWS | Cloud Club Captain | Leadership Program | Multiple Locations | <a href="https://pulse.aws/application/PXZWJ2DQ/new?p=0"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 02 |
 | GoDaddy | 2026 Future of Work Summer Camp | Pre-Internship Program | Kirkland, WA | <a href="https://careers.godaddy/summercamp"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 02 |
 | Handshake | AI Fellowship Program | Fellowship | Remote | <a href="https://joinhandshake.com/ai/referral?referralCode=1F636E&utm_source=referral"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 02 |
-| UNCF | HBCU Future Leaders Institute | Leadership Institute | Atlanta, GA | <a href="https://docs.google.com/forms/d/e/1FAIpQLSeHWN1F69NwYttH5CGp5ir4bfd_4ZdIMvu86KFyutVLbi59kA/viewform"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 23 |
 | Wells Fargo | CTRL Your Career Tech Summit - Sophomore Edition | Tech Summit | United States | <a href="https://talent.wellsfargojobs.com/flows/ctrl-your-career-wells-fargo-tech-summit-sophomore-edition-v_qkasi-v"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 22 |
 | Global Career Accelerator | Career Accelerator Program | Program | Virtual | <a href="https://globalcareeraccelerator.org/app/events/9b62dcae-3ad1-4c5e-a638-ef6c68dcffc7"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 20 |
-| Rewriting the Code | RTC Fellowship Program | Fellowship | United States, Canada | <a href="https://rewritingthecode.org/fellowship/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 20 |
 | WomenHack | Women in Tech Career Fair | Career Fair | Multiple US Cities | <a href="https://womenhack.com/events/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 20 |
 | WomenTech Network | Women in Tech Global Conference 2026 | Conference | Virtual + Multiple Cities | <a href="https://www.womentech.net/women-tech-conference"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 20 |
-| Nike | Yello | Program | Multiple Locations | <a href="https://nike.recsolu.com/app/collect/event/974UJGB_-KHxLIGzGEzQhg?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnEJwpmrGoNKX55J_-FC1qS5CHyplAbjAXNJ7rsF50GNFVzB7SYihMT-LF8nk_aem_f1EPeZPImWuAl49GlXni0g"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 20 |
-| jpmc | Yello | Program | Multiple Locations | <a href="https://jpmc.recsolu.com/app/collect/event/GaamTSfcuXEJCSA0ltQoiA?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnbtcmyyXdutS2-om-SMwc1gFzSVorVf6ZgPhixGpkdBPscRoVPVmdceBQAuo_aem_X8ENLiu1zLTewmMJvlp8GQ"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 19 |
 | Kohl's | Emerging Talent Summit | Program | Multiple Locations | <a href="https://careers.kohls.com/internships/emerging-talent-summit"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 19 |
 | Fidelity Investments | FidHacks | Hackathon | Multiple Locations | <a href="https://fmr.co1.qualtrics.com/jfe/form/SV_0w6U13HT35susvQ?gh_src=Handshake&iisn=Handshake&iis=Handshake&src=Handshake&source=Handshake&ref=Handshake&referral=Handshake&__jvst=Handshake&__jvsd=Handshake&sourceDetails=Handshake&trid=Handshake&lever-source%5B%5D=Handshake&Source=Handshake&rb=Handshake&jobBoardSource=Handshake&channel=Handshake&rcid=Handshake"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 19 |
-| Hudson River Trading | Inside HRT | Externship | New York City, NY | <a href="https://www.hudsonrivertrading.com/hrt-job/inside-hrt/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 04 |
-| GE Aerospace | L.I.F.T. Summit :us: :lock: | Recruiting Event | Cincinnati, OH | :lock: | Feb 23 |
 | NASA L'SPACE Academy | Mission Concept Academy :us: | Program | Multiple Locations | <a href="https://www.lspace.asu.edu/mission-concept-academy"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Feb 19 |
 | Liberty Mutual | 2026 Unite Summit - Exploratory Program | Discovery Program | Boston, MA | <a href="https://campus-libertymutual.icims.com/jobs/74387/2026-unite-summit---exploratory-program/job"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Feb 19 |
 | AI4ALL | AI4ALL Ignite | Career Accelerator | Multiple Locations | <a href="https://ai-4-all.org/ai4all-ignite/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Feb 09 |
 | GirlsWhoML | Thinking About Thinking 2026 Ambassador Programme | Ambassador Programme | London, UK | <a href="https://docs.google.com/forms/d/e/1FAIpQLSfh6jXrV8-2rtNAhmLDG8vnH7X683aVc-hkqHLjrMVfJV7Z0w/viewform"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Feb 04 |
+| UNCF | HBCU Future Leaders Institute :lock: | Leadership Institute | Atlanta, GA | :lock: | Mar 23 |
+| Rewriting the Code | RTC Fellowship Program :lock: | Fellowship | United States, Canada | :lock: | Mar 20 |
+| Nike | Yello :lock: | Program | Multiple Locations | :lock: | Mar 20 |
+| JP Morgan Chase | Yello :lock: | Program | Multiple Locations | :lock: | Mar 19 |
+| Hudson River Trading | Inside HRT :lock: | Externship | New York City, NY | :lock: | Mar 04 |
+| GE Aerospace | L.I.F.T. Summit :us: :lock: | Recruiting Event | Cincinnati, OH | :lock: | Feb 23 |
 | Outreachy | Open Source Internship - May 2026 :lock: | Internship | Remote | :lock: | Mar 20 |
 | AQR Capital Management | AQR Discovery - Early Engagement Program :lock: | Early Engagement Program | Greenwich, CT | :lock: | Feb 19 |
 | Salesforce | Futureforce Tech Launchpad 2026 :lock: | Pre-Internship | San Francisco, CA | :lock: | Feb 19 |
@@ -94,7 +95,10 @@ To contribute:
 <!-- RESEARCH_TABLE_START -->
 | University/Organization | Program | Field | Location | Application | Date Posted |
 | ----------------------- | ------- | ----- | -------- | ----------- | ----------- |
+| CRA-WP | DREU-QIS & AI 2026 | Quantum Computing, AI | Multiple Locations | <a href="https://cra.org/cra-wp/dreu/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 06 |
+| CBAI | Summer Research Fellowship in AI Safety '26 | AI Safety | Cambridge, MA | <a href="https://cbai.ai/fellowship"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 06 |
 | University of Minnesota | Computer Science REU | Computer Science | Minneapolis, MN | <a href="https://reu.cs.umn.edu/apply"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Feb 19 |
+| SACNAS | 2026 SACNAS Annual Conference - Research Presentations :lock: | STEM | Long Beach, CA | :lock: | Mar 23 |
 | Brown University | NSF REU - AI for Computational Creativity :lock: | Artificial Intelligence | Providence, RI | :lock: | Feb 19 |
 | Caltech | SURF - Summer Undergraduate Research Fellowship :lock: | Computer Science, Engineering, STEM | Pasadena, CA | :lock: | Feb 19 |
 | Carnegie Mellon University | REUSE - Research Experiences for Undergraduates in Software Engineering :lock: | Software Engineering, ML, Security | Pittsburgh, PA | :lock: | Feb 19 |
@@ -109,7 +113,6 @@ To contribute:
 | UChicago | Data Science Institute Summer Lab :lock: | Data Science | Chicago, IL | :lock: | Feb 19 |
 | UMBC | NSF Big Data REU Site :lock: | Big Data, Data Science | Remote | :lock: | Feb 19 |
 | USC Viterbi | CURVE - Center for Undergraduate Research in Viterbi Engineering :lock: | Computer Science, Engineering | Los Angeles, CA | :lock: | Feb 19 |
-| SACNAS | 2026 SACNAS Annual Conference - Research Presentations | STEM | Long Beach, CA | <a href="https://www.sacnas.org/conference/research-presentations"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 23 |
 <!-- RESEARCH_TABLE_END -->
 
 ---
@@ -121,15 +124,16 @@ To contribute:
 <!-- SCHOLARSHIPS_TABLE_START -->
 | Organization | Scholarship | Amount | Application | Deadline |
 | ------------ | ----------- | ------ | ----------- | -------- |
+| Cruzing Forward | Cruzing Forward Scholarship | $200 | <a href="https://lnkd.in/ef_NgA5B"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Open |
 | CrowdStrike | Next Gen Scholarship | $2,500 - $10,000 | <a href="https://scholarshipamerica.org/scholarship/next-gen/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 27, 2026 |
 | Last Mile Education Fund x Microsoft | Microsoft Cybersecurity Scholarship | Up to $875 | <a href="https://www.lastmile-ed.org/microsoftcybersecurityscholarship"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Rolling |
 | Advancing Women in Technology | AWT Scholarship 2026 | Varies | <a href="https://apply.mykaleidoscope.com/program/AWTScholarship2026"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Check Portal |
-| Chime | Chime Scholars Foundation | Up to $20,000 | <a href="https://www.chime.com/about-us/chime-scholars-foundation/#interested-in-applying"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 31, 2026 |
 | Guild Giving Foundation | Guild Giving National Scholarship | $1,500 | <a href="https://scholarshipamerica.org/scholarship/guildgiving/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 10, 2026 |
 | Last Mile Education Fund | Last Mile Fund | Up to $10,000 | <a href="https://www.lastmile-ed.org/apply"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Rolling |
 | MPOWER Financing | MPOWER Global Citizen Scholarship | $1,000 - $8,000 | <a href="https://www.mpowerfinancing.com/scholarships"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Aug 31, 2026 |
 | Silicon Valley Community Foundation | Latinos in Technology Scholarship | Up to $18,000 | <a href="https://www.svcf.org/scholarships/latinos-in-technology-scholarship"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Check Portal |
-| Western Digital | Western Digital STEM Scholarship | $5,000 | <a href="https://scholarshipamerica.org/scholarship/westerndigital-stem/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 1, 2026 |
+| Chime | Chime Scholars Foundation :lock: | Up to $20,000 | :lock: | Closed (Mar 31) |
+| Western Digital | Western Digital STEM Scholarship :lock: | $5,000 | :lock: | Closed (Apr 1) |
 | CopperPoint Insurance | CopperPoint Community Scholarship :lock: | Varies | :lock: | Closed |
 | Feeding Student Success | Feeding Student Success Scholarship 2026-27 :lock: | Varies | :lock: | Closed (Feb 13) |
 | Global Game Jam | GDC Festival of Games 2026 Scholarship :lock: | Varies | :lock: | Closed |

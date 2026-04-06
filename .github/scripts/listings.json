@@ -448,10 +448,10 @@
       "Sophomore (2nd year)"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
+    "active": false,
     "is_visible": true,
     "date_posted": 1771555523,
-    "date_updated": 1771555523,
+    "date_updated": 1775508066,
     "source": "Jose-Gael-Cruz-Lopez",
     "scholarship_amount": "Up to $20,000",
     "deadline": "Mar 31, 2026"
@@ -712,10 +712,10 @@
       "Sophomore (2nd year)"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
+    "active": false,
     "is_visible": true,
     "date_posted": 1771555523,
-    "date_updated": 1771555523,
+    "date_updated": 1775508066,
     "source": "Jose-Gael-Cruz-Lopez",
     "scholarship_amount": "$5,000",
     "deadline": "Apr 1, 2026"
@@ -1191,10 +1191,10 @@
       "Sophomore (2nd year)"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
+    "active": false,
     "is_visible": true,
     "date_posted": 1772685706,
-    "date_updated": 1772685706,
+    "date_updated": 1775508066,
     "source": "SebaCape"
   },
   {
@@ -1302,10 +1302,10 @@
       "Sophomore (2nd year)"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
+    "active": false,
     "is_visible": true,
     "date_posted": 1774044000,
-    "date_updated": 1774044000,
+    "date_updated": 1775508066,
     "source": "Jose-Gael-Cruz-Lopez"
   },
   {
@@ -1368,10 +1368,10 @@
       "Sophomore (2nd year)"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
+    "active": false,
     "is_visible": true,
     "date_posted": 1773981080,
-    "date_updated": 1773981080,
+    "date_updated": 1775508066,
     "source": "Jose-Gael-Cruz-Lopez"
   },
   {
@@ -1390,10 +1390,10 @@
       "Sophomore (2nd year)"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
+    "active": false,
     "is_visible": true,
     "date_posted": 1774041985,
-    "date_updated": 1774041985,
+    "date_updated": 1775508066,
     "source": "Jose-Gael-Cruz-Lopez"
   },
   {
@@ -1455,10 +1455,10 @@
       "Sophomore (2nd year)"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
+    "active": false,
     "is_visible": true,
     "date_posted": 1774224000,
-    "date_updated": 1774224000,
+    "date_updated": 1775508066,
     "source": "Jose-Gael-Cruz-Lopez"
   },
   {
@@ -1499,10 +1499,186 @@
       "Sophomore (2nd year)"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
+    "active": false,
     "is_visible": true,
     "date_posted": 1774224000,
-    "date_updated": 1774224000,
+    "date_updated": 1775508066,
+    "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "13e23c9e-ed92-471c-a526-7472bddd475a",
+    "company_name": "Cruzing Forward",
+    "title": "Cruzing Forward Scholarship",
+    "url": "https://lnkd.in/ef_NgA5B",
+    "locations": [
+      "United States"
+    ],
+    "season": "Multiple",
+    "category": "Scholarship",
+    "opportunity_type": "Scholarship",
+    "target_year": [
+      "Freshman (1st year)",
+      "Sophomore (2nd year)"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1775508066,
+    "date_updated": 1775508066,
+    "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "8cccf7c7-8904-46b0-a506-cd9175718648",
+    "company_name": "Equitech Futures",
+    "title": "Equitech Futures Institute",
+    "url": "https://www.equitechfutures.com/programs/efi",
+    "locations": [
+      "Virtual"
+    ],
+    "season": "Summer",
+    "category": "Program",
+    "opportunity_type": "Program",
+    "target_year": [
+      "Freshman (1st year)",
+      "Sophomore (2nd year)"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1775508066,
+    "date_updated": 1775508066,
+    "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "2cd385e9-de61-41c1-89d7-7c7a4e3510be",
+    "company_name": "CRA-WP",
+    "title": "DREU-QIS & AI 2026",
+    "url": "https://cra.org/cra-wp/dreu/",
+    "locations": [
+      "Multiple Locations"
+    ],
+    "season": "Summer",
+    "category": "Research",
+    "opportunity_type": "Research Experience",
+    "target_year": [
+      "Freshman (1st year)",
+      "Sophomore (2nd year)"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1775508066,
+    "date_updated": 1775508066,
+    "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "296cee5c-033c-41c5-a08f-1a5e82307254",
+    "company_name": "CBAI",
+    "title": "Summer Research Fellowship in AI Safety '26",
+    "url": "https://cbai.ai/fellowship",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "season": "Summer",
+    "category": "Research",
+    "opportunity_type": "Research Fellowship",
+    "target_year": [
+      "Freshman (1st year)",
+      "Sophomore (2nd year)"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1775508066,
+    "date_updated": 1775508066,
+    "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "b5b034b2-6ff5-45eb-9860-e7fcee8e32cd",
+    "company_name": "AWS",
+    "title": "Cloud Club Captain",
+    "url": "https://pulse.aws/application/PXZWJ2DQ/new?p=0",
+    "locations": [
+      "Multiple Locations"
+    ],
+    "season": "Multiple",
+    "category": "Program",
+    "opportunity_type": "Leadership Program",
+    "target_year": [
+      "Freshman (1st year)",
+      "Sophomore (2nd year)"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1775508066,
+    "date_updated": 1775508066,
+    "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "6cc802fd-5100-486a-9e33-cb5834c32b09",
+    "company_name": "GoDaddy",
+    "title": "2026 Future of Work Summer Camp",
+    "url": "https://careers.godaddy/summercamp",
+    "locations": [
+      "Kirkland, WA"
+    ],
+    "season": "Multiple",
+    "category": "Program",
+    "opportunity_type": "Pre-Internship Program",
+    "target_year": [
+      "Freshman (1st year)",
+      "Sophomore (2nd year)"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1775508066,
+    "date_updated": 1775508066,
+    "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "f8cf9f57-2928-43c2-98f2-5247df59adfe",
+    "company_name": "Handshake",
+    "title": "AI Fellowship Program",
+    "url": "https://joinhandshake.com/ai/referral?referralCode=1F636E&utm_source=referral",
+    "locations": [
+      "Remote"
+    ],
+    "season": "Multiple",
+    "category": "Program",
+    "opportunity_type": "Fellowship",
+    "target_year": [
+      "Freshman (1st year)",
+      "Sophomore (2nd year)"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1775508066,
+    "date_updated": 1775508066,
+    "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "d8e07cf9-6916-4bdc-90da-0610c300b808",
+    "company_name": "Last Mile Education Fund x Microsoft",
+    "title": "Microsoft Cybersecurity Scholarship",
+    "url": "https://www.lastmile-ed.org/microsoftcybersecurityscholarship",
+    "locations": [
+      "United States"
+    ],
+    "season": "Multiple",
+    "category": "Scholarship",
+    "opportunity_type": "Scholarship",
+    "target_year": [
+      "Freshman (1st year)",
+      "Sophomore (2nd year)"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1775508066,
+    "date_updated": 1775508066,
     "source": "Jose-Gael-Cruz-Lopez"
   }
 ]
