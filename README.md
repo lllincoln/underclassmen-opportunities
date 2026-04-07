@@ -53,9 +53,10 @@ To contribute:
 <!-- PROGRAMS_TABLE_START -->
 | Company | Program | Type | Location | Application | Date Posted |
 | ------- | ------- | ---- | -------- | ----------- | ----------- |
+| Royal Caribbean | Early Career Immersion Program | Immersion Program | Miami, FL | <a href="https://jobs.royalcaribbeangroup.com/job/Miami-Early-Career-Immersion-Program-August-2026-FL-33132/1373237400"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 07 |
 | mcievents.com | 2026 NSN Student Sales & Marketing Conference | Conference | Multiple Locations | <a href="https://plus.mcievents.com/event/82045c6a-f96b-43af-9944-670ab6957417/register?rt=K34qubuTukm3UynsGVmWQQ&environment=P2"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 06 |
+| Equitech Futures | Equitech Futures Institute | 8-Week Program | Virtual | <a href="https://www.equitechfutures.com/programs/efi"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 06 |
 | AWS | Cloud Club Captain | Leadership Program | Multiple Locations | <a href="https://pulse.aws/application/PXZWJ2DQ/new?p=0"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 06 |
-| Equitech Futures | Equitech Futures Institute | Program | Virtual | <a href="https://www.equitechfutures.com/programs/efi"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 06 |
 | GoDaddy | 2026 Future of Work Summer Camp | Pre-Internship Program | Kirkland, WA | <a href="https://careers.godaddy/summercamp"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 06 |
 | Handshake | AI Fellowship Program | Fellowship | Remote | <a href="https://joinhandshake.com/ai/referral?referralCode=1F636E&utm_source=referral"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 06 |
 | Google | Google Summer of Code 2026 | Fellowship | Remote | <a href="https://summerofcode.withgoogle.com/programs/2026"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 27 |
