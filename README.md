@@ -53,6 +53,7 @@ To contribute:
 <!-- PROGRAMS_TABLE_START -->
 | Company | Program | Type | Location | Application | Date Posted |
 | ------- | ------- | ---- | -------- | ----------- | ----------- |
+| Royal Caribbean | Early Career Immersion Program | Immersion Program | Miami, FL | <a href="https://jobs.royalcaribbeangroup.com/job/Miami-Early-Career-Immersion-Program-August-2026-FL-33132/1373237400"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 07 |
 | Equitech Futures | Equitech Futures Institute | 8-Week Program | Virtual | <a href="https://www.equitechfutures.com/programs/efi"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 06 |
 | AWS | Cloud Club Captain | Leadership Program | Multiple Locations | <a href="https://pulse.aws/application/PXZWJ2DQ/new?p=0"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 02 |
 | GoDaddy | 2026 Future of Work Summer Camp | Pre-Internship Program | Kirkland, WA | <a href="https://careers.godaddy/summercamp"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 02 |
