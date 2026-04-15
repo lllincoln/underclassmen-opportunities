@@ -1597,7 +1597,7 @@
     "id": "b5b034b2-6ff5-45eb-9860-e7fcee8e32cd",
     "company_name": "AWS",
     "title": "Cloud Club Captain",
-    "url": "https://pulse.aws/application/PXZWJ2DQ/new?p=0",
+    "url": "https://pulse.aws/application/PXZWJ2DQ?p=0",
     "locations": [
       "Multiple Locations"
     ],
@@ -1609,7 +1609,7 @@
       "Sophomore (2nd year)"
     ],
     "sponsorship": "Not Specified",
-    "active": false,
+    "active": true,
     "is_visible": true,
     "date_posted": 1775508066,
     "date_updated": 1775508066,
@@ -1929,6 +1929,189 @@
     "is_visible": true,
     "date_posted": 1775630166,
     "date_updated": 1775630166,
+    "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "10fe9201-5e3a-4ae5-882c-bfb7ec5a9a2f",
+    "company_name": "Harvard Black Advancement",
+    "title": "HABA Summer Internship (Paid, $5,000 Stipend)",
+    "url": "https://www.harvardblackadvancement.org/internship",
+    "locations": [
+      "Remote",
+      "Hybrid"
+    ],
+    "season": "Summer",
+    "category": "Internship",
+    "opportunity_type": "Paid Internship",
+    "target_year": [
+      "Freshman (1st year)",
+      "Sophomore (2nd year)",
+      "Junior (3rd year)"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1776499200,
+    "date_updated": 1776499200,
+    "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "035e51e1-052a-45ad-a7d3-38cad463be49",
+    "company_name": "Bain & Company",
+    "title": "First Forward",
+    "url": "https://www.bain.com/careers/work-with-us/internships-programs/first-forward/",
+    "locations": [
+      "Boston, MA",
+      "New York, NY",
+      "San Francisco, CA",
+      "Chicago, IL",
+      "Denver, CO",
+      "Washington, DC"
+    ],
+    "season": "Summer",
+    "category": "Program",
+    "opportunity_type": "Sophomore Summit (FGLI / First-Gen)",
+    "target_year": [
+      "Sophomore (2nd year)"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1776499200,
+    "date_updated": 1776499200,
+    "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "90c3846b-e1b2-4ecb-9be5-50d88981b322",
+    "company_name": "Wayfair",
+    "title": "Early Leaders Program",
+    "url": "https://www.aboutwayfair.com/careers/early-leaders-program",
+    "locations": [
+      "Boston, MA"
+    ],
+    "season": "Summer",
+    "category": "Program",
+    "opportunity_type": "Sophomore Immersion",
+    "target_year": [
+      "Sophomore (2nd year)"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1776499200,
+    "date_updated": 1776499200,
+    "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "27f6a830-7579-4214-82c6-c909064175d3",
+    "company_name": "Deloitte",
+    "title": "Compass Conference (Class of 2029-2030)",
+    "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Compass-Conference/328755",
+    "locations": [
+      "Westlake, TX"
+    ],
+    "season": "Summer",
+    "category": "Program",
+    "opportunity_type": "Career Conference",
+    "target_year": [
+      "Freshman (1st year)",
+      "Sophomore (2nd year)"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1776499200,
+    "date_updated": 1776499200,
+    "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "65c4c85d-3c99-478f-9bac-15928d167edb",
+    "company_name": "ServiceNow",
+    "title": "Externship Program 2026",
+    "url": "https://servicenow.swoogo.com/ExternshipProgram2026",
+    "locations": [
+      "Multiple Locations"
+    ],
+    "season": "Summer",
+    "category": "Program",
+    "opportunity_type": "Externship",
+    "target_year": [
+      "Freshman (1st year)",
+      "Sophomore (2nd year)"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1776499200,
+    "date_updated": 1776499200,
+    "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "ca6a848c-e7fc-4fba-a331-3e4bfdda41d8",
+    "company_name": "Anthropic",
+    "title": "Anthropic Fellows Program",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5023394008",
+    "locations": [
+      "Berkeley, CA",
+      "London, UK",
+      "Remote"
+    ],
+    "season": "Summer",
+    "category": "Program",
+    "opportunity_type": "Research Fellowship",
+    "target_year": [
+      "Sophomore (2nd year)",
+      "Junior (3rd year)"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1776499200,
+    "date_updated": 1776499200,
+    "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "62909677-21f5-4372-8ac8-988bc3b794ea",
+    "company_name": "Constellation",
+    "title": "Astra Fellowship (Summer 2026)",
+    "url": "https://constellation.org/programs/astra",
+    "locations": [
+      "Berkeley, CA"
+    ],
+    "season": "Summer",
+    "category": "Program",
+    "opportunity_type": "AI Safety Fellowship",
+    "target_year": [
+      "Sophomore (2nd year)",
+      "Junior (3rd year)"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1776499200,
+    "date_updated": 1776499200,
+    "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "45444a2f-403a-42ba-a373-9ed8ec6c56dc",
+    "company_name": "GirlScript Foundation",
+    "title": "GSSoC 2026 - GirlScript Summer of Code",
+    "url": "https://gssoc.girlscript.org/",
+    "locations": [
+      "Remote"
+    ],
+    "season": "Summer",
+    "category": "Program",
+    "opportunity_type": "Open Source Program",
+    "target_year": [
+      "Freshman (1st year)",
+      "Sophomore (2nd year)"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1776240000,
+    "date_updated": 1776240000,
     "source": "Jose-Gael-Cruz-Lopez"
   }
 ]
