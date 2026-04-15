@@ -213,7 +213,7 @@ Opportunities that are exclusively for (or strongly focused on) women, non-binar
 ## Rising Freshmen & Class of 2030 Opportunities
 
 <!-- REPLACE THIS PLACEHOLDER WITH RISING FRESHMEN BANNER IMAGE -->
-<img width="1568" height="672" alt="image" src="https://github.com/user-attachments/assets/bc6bf56c-4e40-4969-a514-72f795f8a27c" />
+<img width="1562" height="571" alt="image" src="https://github.com/user-attachments/assets/0f9d0ef8-79e8-4c81-a8b0-4cb12ef1e8e0" />
 
 
 
