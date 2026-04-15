@@ -168,6 +168,47 @@ To contribute:
 
 ---
 
+## HBCU & Thurgood Marshall Opportunities
+
+<!-- REPLACE THIS PLACEHOLDER WITH HBCU BANNER IMAGE -->
+<img width="964" height="340" alt="HBCU & Thurgood Marshall Opportunities banner (replace this placeholder)" src="https://via.placeholder.com/964x340?text=HBCU+%26+Thurgood+Marshall+Opportunities+Banner" />
+
+
+Opportunities specifically designed for students attending Historically Black Colleges & Universities (HBCUs), Thurgood Marshall College Fund (TMCF) member institutions, and programs with a strong HBCU recruiting focus.
+
+<!-- HBCU_TABLE_START -->
+| Organization | Opportunity | Type | Location | Application | Date Posted |
+| ------------ | ----------- | ---- | -------- | ----------- | ----------- |
+| Harvard Black Advancement | HABA Summer Internship (Paid, $5,000 Stipend) | Paid Internship | Remote / Hybrid | <a href="https://www.harvardblackadvancement.org/internship"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 14 |
+| Thurgood Marshall College Fund | TMCF Talent Network (Early Career Pipeline) | Talent Network | Remote | <a href="https://www.tmcf.org/students-alumni/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 14 |
+| UNCF | HBCU Future Leaders Institute :lock: | Leadership Institute | Atlanta, GA | :lock: | Mar 22 |
+| Microsoft | Black at Microsoft Scholarship :lock: | Scholarship ($2,500 - $5,000) | Remote | :lock: | Closed (Mar 16) |
+<!-- HBCU_TABLE_END -->
+
+---
+
+## Women in Tech Opportunities
+
+<!-- REPLACE THIS PLACEHOLDER WITH WOMEN IN TECH BANNER IMAGE -->
+<img width="964" height="340" alt="Women in Tech Opportunities banner (replace this placeholder)" src="https://via.placeholder.com/964x340?text=Women+in+Tech+Opportunities+Banner" />
+
+
+Opportunities that are exclusively for (or strongly focused on) women, non-binary, and gender-minority students in tech, engineering, and related fields.
+
+<!-- WOMEN_TABLE_START -->
+| Organization | Opportunity | Type | Location | Application | Date Posted |
+| ------------ | ----------- | ---- | -------- | ----------- | ----------- |
+| WomenHack | Women in Tech Career Fair | Career Fair | Multiple US Cities | <a href="https://womenhack.com/events/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 20 |
+| WomenTech Network | Women in Tech Global Conference 2026 | Conference | Virtual + Multiple Cities | <a href="https://www.womentech.net/women-tech-conference"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 20 |
+| GirlsWhoML | Thinking About Thinking 2026 Ambassador Programme | Ambassador Programme | London, UK | <a href="https://docs.google.com/forms/d/e/1FAIpQLSfh6jXrV8-2rtNAhmLDG8vnH7X683aVc-hkqHLjrMVfJV7Z0w/viewform"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Feb 04 |
+| GirlScript Foundation | GSSoC 2026 - GirlScript Summer of Code | Open Source Program | Remote | <a href="https://gssoc.girlscript.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 11 |
+| MIT Libraries | Women@MIT Fellowship :lock: | Research Fellowship | Cambridge, MA | :lock: | Mar 27 |
+| Advancing Women in Technology | AWT Scholarship 2026 :lock: | Scholarship | Remote | :lock: | Closed |
+| Rewriting the Code | RTC Fellowship Program :lock: | Fellowship | United States, Canada | :lock: | Mar 20 |
+<!-- WOMEN_TABLE_END -->
+
+---
+
 ## Resources for Underclassmen
 
 - [Interview-Guidance](https://sophiasun.substack.com/s/interviews)
