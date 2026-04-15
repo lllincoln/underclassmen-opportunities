@@ -190,7 +190,7 @@ Opportunities specifically designed for students attending Historically Black Co
 ## Women in Tech Opportunities
 
 <!-- REPLACE THIS PLACEHOLDER WITH WOMEN IN TECH BANNER IMAGE -->
-src="<img width="1537" height="588" alt="image" src="https://github.com/user-attachments/assets/66eaa6ee-47c2-48bf-b48b-ef3200281264" />
+<img width="1537" height="588" alt="image" src="<img width="1535" height="570" alt="image" src="https://github.com/user-attachments/assets/a6ff284d-3031-42b7-84e6-1832e5efdac2" />
 " />
 
 
