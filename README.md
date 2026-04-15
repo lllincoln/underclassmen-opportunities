@@ -171,8 +171,9 @@ To contribute:
 ## HBCU & Thurgood Marshall Opportunities
 
 <!-- REPLACE THIS PLACEHOLDER WITH HBCU BANNER IMAGE -->
-<img width="964" height="340" alt="HBCU & Thurgood Marshall Opportunities banner (replace this placeholder)" src="<img width="1792" height="592" alt="image" src="https://github.com/user-attachments/assets/ac7932e0-7d11-4c3e-9252-054c99e97176" />
+src="<img width="1792" height="592" alt="image" src="<img width="1689" height="577" alt="image" src="https://github.com/user-attachments/assets/813997da-780a-4ac4-9541-ac201c38dcbd" />
 " />
+"
 
 
 Opportunities specifically designed for students attending Historically Black Colleges & Universities (HBCUs), Thurgood Marshall College Fund (TMCF) member institutions, and programs with a strong HBCU recruiting focus.
