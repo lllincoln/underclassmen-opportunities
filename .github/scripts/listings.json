@@ -236,7 +236,7 @@
       "Sophomore (2nd year)"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
+    "active": false,
     "is_visible": true,
     "date_posted": 1771555150,
     "date_updated": 1771555150,
@@ -376,7 +376,7 @@
       "Sophomore (2nd year)"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
+    "active": false,
     "is_visible": true,
     "date_posted": 1771555523,
     "date_updated": 1771555523,
@@ -400,7 +400,7 @@
       "Sophomore (2nd year)"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
+    "active": false,
     "is_visible": true,
     "date_posted": 1771555523,
     "date_updated": 1771555523,
@@ -688,7 +688,7 @@
       "Sophomore (2nd year)"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
+    "active": false,
     "is_visible": true,
     "date_posted": 1771555523,
     "date_updated": 1771555523,
@@ -805,7 +805,7 @@
       "Sophomore (2nd year)"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
+    "active": false,
     "is_visible": true,
     "date_posted": 1771556496,
     "date_updated": 1771556496,
@@ -1103,7 +1103,7 @@
       "Sophomore (2nd year)"
     ],
     "sponsorship": "U.S. Citizenship Required",
-    "active": true,
+    "active": false,
     "is_visible": true,
     "date_posted": 1771561648,
     "date_updated": 1771561648,
@@ -1213,7 +1213,7 @@
       "Sophomore (2nd year)"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
+    "active": false,
     "is_visible": true,
     "date_posted": 1773959230,
     "date_updated": 1773959230,
@@ -1346,7 +1346,7 @@
       "Sophomore (2nd year)"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
+    "active": false,
     "is_visible": true,
     "date_posted": 1773964879,
     "date_updated": 1773964879,
@@ -1354,7 +1354,7 @@
   },
   {
     "id": "87e22d69-f5a3-4864-8d1b-0fe2555b794a",
-    "company_name": "jpmc",
+    "company_name": "JP Morgan Chase",
     "title": "Yello",
     "url": "https://jpmc.recsolu.com/app/collect/event/GaamTSfcuXEJCSA0ltQoiA?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnbtcmyyXdutS2-om-SMwc1gFzSVorVf6ZgPhixGpkdBPscRoVPVmdceBQAuo_aem_X8ENLiu1zLTewmMJvlp8GQ",
     "locations": [
@@ -1587,7 +1587,7 @@
       "Sophomore (2nd year)"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
+    "active": false,
     "is_visible": true,
     "date_posted": 1775508066,
     "date_updated": 1775508066,
@@ -1609,7 +1609,7 @@
       "Sophomore (2nd year)"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
+    "active": false,
     "is_visible": true,
     "date_posted": 1775508066,
     "date_updated": 1775508066,
@@ -1631,7 +1631,7 @@
       "Sophomore (2nd year)"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
+    "active": false,
     "is_visible": true,
     "date_posted": 1775508066,
     "date_updated": 1775508066,
@@ -1723,7 +1723,7 @@
       "Senior (4th year)"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
+    "active": false,
     "is_visible": true,
     "date_posted": 1774656000,
     "date_updated": 1774656000,
@@ -1772,7 +1772,7 @@
       "Senior (4th year)"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
+    "active": false,
     "is_visible": true,
     "date_posted": 1774656000,
     "date_updated": 1774656000,
