@@ -39,8 +39,8 @@ This repository is **specifically for programs that target freshmen and sophomor
 ### Target Classes
 
 Opportunities submitted here should be designed for:
-- **Class of 2028** (current freshmen)
-- **Class of 2029** (current sophomores)
+- **Class of 2028** (current sophomores)
+- **Class of 2029** (current freshmen)
 
 These are programs explicitly restricted to students early in their college career. If an opportunity is open to juniors, seniors, or anyone regardless of year, it belongs in [Summer2026-Internships](https://github.com/vanshb03/Summer2026-Internships) instead.
 
