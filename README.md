@@ -2,9 +2,6 @@
 
 <img width="978" height="420" alt="image" src="https://github.com/user-attachments/assets/1e397ba3-7e69-4d88-a6f8-1b50827f8f3d" />
 
----
-
-[![oosmetrics](https://api.oosmetrics.com/api/v1/badge/achievement/9c7372b6-b00d-4295-b86c-3e2a122c66fb.svg)](https://oosmetrics.com/repo/Jose-Gael-Cruz-Lopez/underclassmen-opportunities)
 
 
 Hi, I'm [Jose Cruz](https://www.linkedin.com/in/josegaelcruz). I created this repository as a curated list of internships, programs, and opportunities specifically designed for **underclassmen** — freshmen and sophomores in tech, software engineering, and related fields — **as well as rising freshmen (Class of 2030)** who are high school seniors preparing to break into tech the moment they step on campus.
@@ -57,6 +54,7 @@ To contribute:
 <!-- PROGRAMS_TABLE_START -->
 | Status | Company | Program | Type | Location | Application | Date Posted |
 | ------ | ------- | ------- | ---- | -------- | ----------- | ----------- |
+| ✅ **[OPEN]** | Liberty Mutual | 2026 Spark Summit — Deadline: Check site (Event: Aug 6–7, 2026) | Externship / Virtual Summit (Freshmen/Sophomores; Early Interview Access for TechStart 2027 Internship) | Remote, US | <a href="https://campus-libertymutual.icims.com/jobs/75376/2026-spark-summit/job"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 21, 2026 |
 | ✅ **[OPEN]** | AWS (Amazon) | AWS AI & ML Scholars Program — Deadline: June 24, 2026 | Free AI/ML Education (18+; No Prior Experience Required) | Remote / Global | <a href="https://aws.amazon.com/about-aws/our-impact/scholars/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 19, 2026 |
 | ✅ **[OPEN]** | Microsoft | Microsoft Learn Student Ambassadors — Deadline: Rolling | Ambassador / Leadership Program (Any Major; 16+; All Disciplines) | Global / Campus | <a href="https://mvp.microsoft.com/studentambassadors"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 19, 2026 |
 | ✅ **[OPEN]** | IMC Trading | US Chess Academy 2026 — Deadline: May 10, 2026 | Chess Competition (Freshmen/Sophomores) | Chicago, IL / Virtual Qualifiers | <a href="https://www.imc.com/eu/careers/jobs/4829446101"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 16, 2026 |
