@@ -23,6 +23,20 @@ To contribute:
 
 ---
 
+## Table of Contents
+
+- [Underclassmen Internships](#underclassmen-internships)
+- [Underclassmen Programs](#underclassmen-programs-fellowships-externships-etc)
+- [Underclassmen Research Programs](#underclassmen-research-programs)
+- [Scholarships](#scholarships)
+- [HBCU Opportunities](#hbcu-opportunities)
+- [Women in Tech Opportunities](#women-in-tech-opportunities)
+- [Rising Freshmen & Class of 2030 Opportunities](#rising-freshmen--class-of-2030-opportunities)
+- [State-Based Scholarships & Grants](#state-based-scholarships--grants)
+- [Resources for Underclassmen](#resources-for-underclassmen)
+- [Contributing](#contributing)
+- [Acknowledgements](#acknowledgements)
+
 ## Underclassmen Internships
 
 <img
