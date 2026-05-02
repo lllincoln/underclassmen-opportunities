@@ -8,6 +8,7 @@
 [![Last Updated](https://img.shields.io/github/last-commit/Jose-Gael-Cruz-Lopez/underclassmen-opportunities?style=for-the-badge&label=Last%20Updated&color=00C853&labelColor=000000)](https://github.com/Jose-Gael-Cruz-Lopez/underclassmen-opportunities/commits/main)
 [![Contributors](https://img.shields.io/github/contributors/Jose-Gael-Cruz-Lopez/underclassmen-opportunities?style=for-the-badge&color=0091EA&labelColor=000000)](https://github.com/Jose-Gael-Cruz-Lopez/underclassmen-opportunities/graphs/contributors)
 [![Open Issues](https://img.shields.io/github/issues/Jose-Gael-Cruz-Lopez/underclassmen-opportunities?style=for-the-badge&label=Submissions&color=FF6D00&labelColor=000000)](https://github.com/Jose-Gael-Cruz-Lopez/underclassmen-opportunities/issues)
+[![oosmetrics](https://api.oosmetrics.com/api/v1/badge/achievement/9c7372b6-b00d-4295-b86c-3e2a122c66fb.svg)](https://oosmetrics.com/repo/Jose-Gael-Cruz-Lopez/underclassmen-opportunities)
 
 </div>
 
