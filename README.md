@@ -1,25 +1,38 @@
-# Underclassmen Opportunities
+<div align="center">
 
-<img width="978" height="420" alt="image" src="https://github.com/user-attachments/assets/1e397ba3-7e69-4d88-a6f8-1b50827f8f3d" />
+# 🌱 Underclassmen Opportunities
 
+### The only opportunity list built for college freshmen & sophomores.
 
+[![Stars](https://img.shields.io/github/stars/Jose-Gael-Cruz-Lopez/underclassmen-opportunities?style=for-the-badge&color=FFD700&labelColor=000000)](https://github.com/Jose-Gael-Cruz-Lopez/underclassmen-opportunities/stargazers)
+[![Last Updated](https://img.shields.io/github/last-commit/Jose-Gael-Cruz-Lopez/underclassmen-opportunities?style=for-the-badge&label=Last%20Updated&color=00C853&labelColor=000000)](https://github.com/Jose-Gael-Cruz-Lopez/underclassmen-opportunities/commits/main)
+[![Contributors](https://img.shields.io/github/contributors/Jose-Gael-Cruz-Lopez/underclassmen-opportunities?style=for-the-badge&color=0091EA&labelColor=000000)](https://github.com/Jose-Gael-Cruz-Lopez/underclassmen-opportunities/graphs/contributors)
+[![Open Issues](https://img.shields.io/github/issues/Jose-Gael-Cruz-Lopez/underclassmen-opportunities?style=for-the-badge&label=Submissions&color=FF6D00&labelColor=000000)](https://github.com/Jose-Gael-Cruz-Lopez/underclassmen-opportunities/issues)
 
-Hi, I'm [Jose Cruz](https://www.linkedin.com/in/josegaelcruz). I created this repository as a curated list of internships, programs, and opportunities specifically designed for **underclassmen** — freshmen and sophomores in tech, software engineering, and related fields — **as well as rising freshmen (Class of 2030)** who are high school seniors preparing to break into tech the moment they step on campus.
+</div>
 
-I know how overwhelming the internship search can feel when you're just starting out — or when you haven't even started college yet. I don't want any underclassmen (Class of 2028, 2029, or 2030) to feel left behind in their career journey. Many companies have programs specifically for first and second-year students (and even incoming freshmen) that don't require prior experience, and I want to make sure everyone has access to these opportunities.
+<img width="978" height="420" alt="banner" src="https://github.com/user-attachments/assets/1e397ba3-7e69-4d88-a6f8-1b50827f8f3d" />
 
-This is a community-driven space. I welcome contributions from anyone who wants to help fellow students succeed. If you find an opportunity, share it. If you learned something, pass it on. Together, we can make the path a little clearer for everyone.
+> [!IMPORTANT]
+> **The only curated opportunity list built exclusively for college freshmen & sophomores (Class of 2028–2030).** Most internship boards ignore you until junior year. This one doesn't.
+
+Hi, I'm [Jose Cruz](https://www.linkedin.com/in/josegaelcruz). I built this because I couldn't find a single resource that actually spoke to freshmen and sophomores — every list assumed you already had experience, already knew companies, already knew where to look. This one starts from zero.
+
+Internships, fellowships, research programs, scholarships, summits — everything here is specifically designed for first and second-year students. No experience required. No junior-year gatekeeping.
+
+This is community-driven. If you find something, add it. Together we make the path clearer for everyone who comes after us.
 
 ---
 
-To contribute:
- 1. Submit an issue using the appropriate template
- 2. Wait for approval from a maintainer
- 3. Your contribution will be automatically added to the list
+**To contribute** — it takes 60 seconds:
+ 1. [Open an issue](https://github.com/Jose-Gael-Cruz-Lopez/underclassmen-opportunities/issues/new/choose) and paste the opportunity URL
+ 2. A maintainer approves it
+ 3. It gets automatically added to the list
 
 ---
 
-:warning: **This repository is specifically for underclassmen-targeted programs.** For general internships open to all years, see [Summer2026-Internships](https://github.com/vanshb03/Summer2026-Internships).
+> [!WARNING]
+> This list is **exclusively for underclassmen-targeted programs** (freshmen/sophomore focus). For general internships open to all years, see [Summer2026-Internships](https://github.com/vanshb03/Summer2026-Internships).
 
 ---
 
