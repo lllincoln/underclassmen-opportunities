@@ -34,6 +34,12 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Company | Program | Type | Location | Application | Date Posted |
 | ------ | ------- | ------- | ---- | -------- | ----------- | ----------- |
+| 🔒 **[CLOSED]** | Bain & Company | First Forward :lock: | Sophomore Summit | Boston, MA / NYC / SF / Chicago / Denver / DC | :lock: | Apr 14, 2026 |
+| 🔒 **[CLOSED]** | Anthropic | Anthropic Fellows Program :lock: | Research Fellowship | Berkeley, CA / London, UK / Remote | :lock: | Apr 14, 2026 |
+| 🔒 **[CLOSED]** | Paragon | Paragon Policy Fellowship - Summer 2026 :lock: | Fellowship | Remote | :lock: | Apr 08, 2026 |
+| 🔒 **[CLOSED]** | Equitech Futures | Equitech Futures Institute :lock: | 8-Week Program | Virtual | :lock: | Apr 06, 2026 |
+| 🔒 **[CLOSED]** | Students Rising Above (SRA) | SOAR First-Year Program :lock: | Mentorship Program | Remote, US | :lock: | Mar 27, 2026 |
+| 🔒 **[CLOSED]** | AI4ALL | AI4ALL Ignite :lock: | Career Accelerator | Multiple Locations | :lock: | Feb 09, 2026 |
 | 🔒 **[CLOSED]** | Global Career Accelerator | Career Accelerator Program (Summer) :lock: | Program | Virtual | :lock: | Apr 08, 2026 |
 | 🔒 **[CLOSED]** | Global Career Accelerator | Career Accelerator Program :lock: | Program | Virtual | :lock: | Mar 20, 2026 |
 | 🔒 **[CLOSED]** | Wayfair | Early Leaders Program :lock: | Sophomore Immersion | Boston, MA | :lock: | Apr 14, 2026 |
