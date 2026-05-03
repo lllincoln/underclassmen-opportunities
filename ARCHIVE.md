@@ -101,6 +101,10 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Organization | Scholarship | Amount | Application | Deadline |
 | ------ | ------------ | ----------- | ------ | ----------- | -------- |
+| 🔒 **[CLOSED]** | CrowdStrike | Next Gen Scholarship :lock: | Varies | :lock: | Closed (April 27, 2026) |
+| 🔒 **[CLOSED]** | Unigo | All About Education Scholarship :lock: | $3,000 | :lock: | Closed (April 30, 2026) |
+| 🔒 **[CLOSED]** | AISES | AISES STEM Scholarships :lock: | Varies (STEM-focused) | :lock: | Closed (April 30, 2026) |
+| 🔒 **[CLOSED]** | ISNA | ISNA Scholarships :lock: | Varies, need-based | :lock: | Closed (April 30, 2026) |
 | 🔒 **[CLOSED]** | APIA Scholars | APIA Scholarship (Asian/Pacific Islander; 2.7+ GPA) | Up to $20K (multi-year) or $2.5K–$5K (one-year) | :lock: | Closed (January 15, 2026) |
 | 🔒 **[CLOSED]** | Guild Giving Foundation | Guild Giving National Scholarship :lock: | $1,500 | :lock: | Closed (April 10, 2026) |
 | 🔒 **[CLOSED]** | Western Digital | Western Digital STEM Scholarship :lock: | $5,000 | :lock: | Closed (April 01, 2026) |
