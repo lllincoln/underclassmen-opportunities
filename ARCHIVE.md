@@ -34,6 +34,7 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Company | Program | Type | Location | Application | Date Posted |
 | ------ | ------- | ------- | ---- | -------- | ----------- | ----------- |
+| 🔒 **[CLOSED]** | Constellation | Astra Fellowship (Summer 2026) :lock: | AI Safety Fellowship | Berkeley, CA | :lock: | Apr 14, 2026 |
 | 🔒 **[CLOSED]** | Bain & Company | First Forward :lock: | Sophomore Summit | Boston, MA / NYC / SF / Chicago / Denver / DC | :lock: | Apr 14, 2026 |
 | 🔒 **[CLOSED]** | Anthropic | Anthropic Fellows Program :lock: | Research Fellowship | Berkeley, CA / London, UK / Remote | :lock: | Apr 14, 2026 |
 | 🔒 **[CLOSED]** | Paragon | Paragon Policy Fellowship - Summer 2026 :lock: | Fellowship | Remote | :lock: | Apr 08, 2026 |
