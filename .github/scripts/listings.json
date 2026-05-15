@@ -2493,7 +2493,7 @@
     "opportunity_type": "Chess Competition",
     "target_year": "Freshmen/Sophomores",
     "sponsorship": "N/A",
-    "active": true,
+    "active": false,
     "is_visible": true,
     "date_posted": 1776300779,
     "date_updated": 1776300779,
