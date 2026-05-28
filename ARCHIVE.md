@@ -150,6 +150,7 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
+| 🔒 **[CLOSED]** | Google | Women Techmakers Scholarship 2026 — Deadline: Closed (May 22, 2026) :lock: | Scholarship ($10,000; CS/Gaming) | Remote | :lock: | Apr 15, 2026 |
 | 🔒 **[CLOSED]** | Forté Foundation | Forté Rising Stars (All Majors - Business Career Prep) :lock: | Program (Free Membership) | Remote | :lock: | Apr 15, 2026 |
 | 🔒 **[CLOSED]** | Morgan Stanley | Freshman Enhancement + Sophomore Early Insights (Women's Track) :lock: | Program (Finance/Business) | New York, NY / Multiple | :lock: | Apr 15, 2026 |
 | 🔒 **[CLOSED]** | JPMorgan Chase | Winning Women (Sophomore/Junior) :lock: | Program (Finance, Markets, AM) | New York, NY / Multiple | :lock: | Apr 15, 2026 |
