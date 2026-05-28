@@ -202,6 +202,7 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | State | Program | Award | Eligibility | Application | Deadline |
 | ------ | ----- | ------- | ----- | ----------- | ----------- | -------- |
+| 🔒 **[CLOSED]** | Delaware | Scholarship Incentive Program (ScIP) :lock: | $1,000–$2,200 | DE resident; 2.5+ GPA; eligible DE or out-of-state program; financial need | :lock: | Closed (May 15, 2026) |
 | 🔒 **[CLOSED]** | California | Cal Grant | Up to $13,752 (UC) / $5,742 (CSU) / $9,358 (private) | CA resident; FAFSA or CADAA by priority; GPA varies by grant type | :lock: | Closed (March 02, 2026 priority; CC to Sept 2, 2026) |
 | 🔒 **[CLOSED]** | Connecticut | Roberta B. Willis Scholarship | Up to $5,250 (merit) or $4,650 (need) | CT resident; eligible CT institution; merit: top 20% or 1200 SAT/25 ACT | :lock: | Closed (February 15, 2026) |
 | 🔒 **[CLOSED]** | Idaho | Idaho Opportunity Scholarship | Up to $3,500/yr | ID HS grad; 3.0+ GPA; financial need; eligible ID institution | :lock: | Closed (March 01, 2026) |
