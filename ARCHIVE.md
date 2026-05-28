@@ -34,6 +34,7 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Company | Program | Type | Location | Application | Date Posted |
 | ------ | ------- | ------- | ---- | -------- | ----------- | ----------- |
+| 🔒 **[CLOSED]** | Liberty Mutual | 2026 Spark Summit (Event: Aug 6–7, 2026) :lock: | Externship / Virtual Summit (Freshmen/Sophomores; Early Interview Access for TechStart 2027 Internship) | Remote, US | :lock: | Apr 21, 2026 |
 | 🔒 **[CLOSED]** | Deloitte | Compass Conference (Class of 2029-2030) :lock: | Career Conference | Westlake, TX | :lock: | Apr 14, 2026 |
 | 🔒 **[CLOSED]** | Datadog | DataPUPS Early ID Summit :lock: | Early ID Summit (Rising Sophomores; Class of 2029; CS/Technical; June 22–23, 2026) | New York, NY | :lock: | Apr 27, 2026 |
 | 🔒 **[CLOSED]** | IMC Trading | US Chess Academy 2026 :lock: | Chess Competition (Freshmen/Sophomores) | Chicago, IL / Virtual Qualifiers | :lock: | Apr 16, 2026 |
