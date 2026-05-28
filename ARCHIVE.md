@@ -34,6 +34,8 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Company | Program | Type | Location | Application | Date Posted |
 | ------ | ------- | ------- | ---- | -------- | ----------- | ----------- |
+| 🔒 **[CLOSED]** | Liberty Mutual | 2026 Spark Summit (Event: Aug 6–7, 2026) :lock: | Externship / Virtual Summit (Freshmen/Sophomores; Early Interview Access for TechStart 2027 Internship) | Remote, US | :lock: | Apr 21, 2026 |
+| 🔒 **[CLOSED]** | Deloitte | Compass Conference (Class of 2029-2030) :lock: | Career Conference | Westlake, TX | :lock: | Apr 14, 2026 |
 | 🔒 **[CLOSED]** | Datadog | DataPUPS Early ID Summit :lock: | Early ID Summit (Rising Sophomores; Class of 2029; CS/Technical; June 22–23, 2026) | New York, NY | :lock: | Apr 27, 2026 |
 | 🔒 **[CLOSED]** | IMC Trading | US Chess Academy 2026 :lock: | Chess Competition (Freshmen/Sophomores) | Chicago, IL / Virtual Qualifiers | :lock: | Apr 16, 2026 |
 | 🔒 **[CLOSED]** | Constellation | Astra Fellowship (Summer 2026) :lock: | AI Safety Fellowship | Berkeley, CA | :lock: | Apr 14, 2026 |
@@ -104,6 +106,8 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Organization | Scholarship | Amount | Application | Deadline |
 | ------ | ------------ | ----------- | ------ | ----------- | -------- |
+| 🔒 **[CLOSED]** | NAACP | Agnes Jones Jackson Scholarship (NAACP Member; Under 25; 2.5+ GPA) :lock: | Varies | :lock: | Closed (May 22, 2026) |
+| 🔒 **[CLOSED]** | HACU | HACU Partner Scholarships (Hispanic Heritage; HACU-Member Colleges) :lock: | Varies; dozens of partner awards | :lock: | Closed (Rolling up to May 15, 2026 for most partners) |
 | 🔒 **[CLOSED]** | CrowdStrike | Next Gen Scholarship :lock: | Varies | :lock: | Closed (April 27, 2026) |
 | 🔒 **[CLOSED]** | Unigo | All About Education Scholarship :lock: | $3,000 | :lock: | Closed (April 30, 2026) |
 | 🔒 **[CLOSED]** | AISES | AISES STEM Scholarships :lock: | Varies (STEM-focused) | :lock: | Closed (April 30, 2026) |
@@ -132,6 +136,8 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
+| 🔒 **[CLOSED]** | Thurgood Marshall College Fund / Chevron | TMCF Chevron Energy Summit 2026 :lock: | Energy Summit (Freshmen/Sophomores/Juniors at HBCU or PBI; US Citizens; Event: Aug 10–14, 2026) | Houston, TX | :lock: | Apr 24, 2026 |
+| 🔒 **[CLOSED]** | Thurgood Marshall College Fund | TMCF Leadership Institute 2026 :lock: | Conference + Recruitment (All Majors) | Washington, DC | :lock: | Apr 15, 2026 |
 | 🔒 **[CLOSED]** | Arise And Shine Foundation | Arise & Shine HBCU Coding Bootcamp & E.S.T.E.A.M.ED Summit :lock: | Free Coding Bootcamp (Rising Sophomores–Seniors; All Majors; $50K Scholarship Pool; June 7–12, 2026) | Tallahassee, FL (FAMU) | :lock: | Apr 27, 2026 |
 | 🔒 **[CLOSED]** | Thurgood Marshall College Fund | TMCF InsurTech Immersion :lock: | Immersion Program (HBCU Students) | TBD | :lock: | Apr 27, 2026 |
 | 🔒 **[CLOSED]** | Goldman Sachs | Market Madness: HBCU Possibilities Program :lock: | 4-Month Immersive Program (Finance/Business) | Multiple Locations | :lock: | Apr 15, 2026 |
@@ -147,6 +153,8 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
+| 🔒 **[CLOSED]** | Google | Women Techmakers Scholarship 2026 — Deadline: Closed (May 22, 2026) :lock: | Scholarship ($10,000; CS/Gaming) | Remote | :lock: | Apr 15, 2026 |
+| 🔒 **[CLOSED]** | Technica | Technica Virtual Fellowship :lock: | 8-Week Fellowship (June 26–Aug 14; Rising College Freshmen; Underrepresented Genders; DC/MD/VA; Free) | Remote (Zoom) | :lock: | Apr 19, 2026 |
 | 🔒 **[CLOSED]** | Forté Foundation | Forté Rising Stars (All Majors - Business Career Prep) :lock: | Program (Free Membership) | Remote | :lock: | Apr 15, 2026 |
 | 🔒 **[CLOSED]** | Morgan Stanley | Freshman Enhancement + Sophomore Early Insights (Women's Track) :lock: | Program (Finance/Business) | New York, NY / Multiple | :lock: | Apr 15, 2026 |
 | 🔒 **[CLOSED]** | JPMorgan Chase | Winning Women (Sophomore/Junior) :lock: | Program (Finance, Markets, AM) | New York, NY / Multiple | :lock: | Apr 15, 2026 |
@@ -163,6 +171,8 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Organization | Opportunity | Type | Location | Application | Deadline |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | -------- |
+| 🔒 **[CLOSED]** | Deloitte | Compass Conference (Class of 2029-2030) :lock: | Career Conference (Fully Funded - Travel & Lodging Covered) | Westlake, TX | :lock: | Closed (May 26, 2026) |
+| 🔒 **[CLOSED]** | Technica | Technica Virtual Fellowship (Rising Freshmen; Class of 2030; Underrepresented Genders; DC/MD/VA) :lock: | 8-Week Fellowship (June 26–Aug 14; Fully Remote; Free) | Remote (Zoom) | :lock: | Check site (link broken) |
 | 🔒 **[CLOSED]** | Gloria Barron Prize | Barron Prize for Young Heroes (Ages 8-18; Service/Environmental Leaders) :lock: | Leadership Award (25 × $10,000) | Remote | :lock: | Closed (April 30, 2026) |
 | 🔒 **[CLOSED]** | Jack Kent Cooke Foundation | Young Artist Award (Pre-Collegiate Musicians, Ages 8-18) :lock: | Music Award (up to $10,000) | Remote | :lock: | Closed (April 22, 2026) |
 | 🔒 **[CLOSED]** | Optimist International | Optimist International Essay Contest (Under 19; 700–800 word essay) — 2025-26 Cycle Closed | Scholarship ($2,500 + local/regional prizes) | Remote (via Local Optimist Club) | :lock: | Closed (April 15, 2026); reopens fall 2026 |
@@ -197,6 +207,8 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | State | Program | Award | Eligibility | Application | Deadline |
 | ------ | ----- | ------- | ----- | ----------- | ----------- | -------- |
+| 🔒 **[CLOSED]** | Delaware | Scholarship Incentive Program (ScIP) :lock: | $1,000–$2,200 | DE resident; 2.5+ GPA; eligible DE or out-of-state program; financial need | :lock: | Closed (May 15, 2026) |
+| 🔒 **[CLOSED]** | Ohio | Ohio College Opportunity Grant (OCOG) :lock: | $2,000–$5,000 | OH resident; FAFSA SAI ≤3,750; household income ≤$96K; eligible OH institution | :lock: | Link broken; program still exists for 2026-27 (apply via institution financial aid office + FAFSA) |
 | 🔒 **[CLOSED]** | California | Cal Grant | Up to $13,752 (UC) / $5,742 (CSU) / $9,358 (private) | CA resident; FAFSA or CADAA by priority; GPA varies by grant type | :lock: | Closed (March 02, 2026 priority; CC to Sept 2, 2026) |
 | 🔒 **[CLOSED]** | Connecticut | Roberta B. Willis Scholarship | Up to $5,250 (merit) or $4,650 (need) | CT resident; eligible CT institution; merit: top 20% or 1200 SAT/25 ACT | :lock: | Closed (February 15, 2026) |
 | 🔒 **[CLOSED]** | Idaho | Idaho Opportunity Scholarship | Up to $3,500/yr | ID HS grad; 3.0+ GPA; financial need; eligible ID institution | :lock: | Closed (March 01, 2026) |
