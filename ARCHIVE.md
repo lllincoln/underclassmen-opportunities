@@ -34,6 +34,7 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Company | Program | Type | Location | Application | Date Posted |
 | ------ | ------- | ------- | ---- | -------- | ----------- | ----------- |
+| 🔒 **[CLOSED]** | Deloitte | Compass Conference (Class of 2029-2030) :lock: | Career Conference | Westlake, TX | :lock: | Apr 14, 2026 |
 | 🔒 **[CLOSED]** | Datadog | DataPUPS Early ID Summit :lock: | Early ID Summit (Rising Sophomores; Class of 2029; CS/Technical; June 22–23, 2026) | New York, NY | :lock: | Apr 27, 2026 |
 | 🔒 **[CLOSED]** | IMC Trading | US Chess Academy 2026 :lock: | Chess Competition (Freshmen/Sophomores) | Chicago, IL / Virtual Qualifiers | :lock: | Apr 16, 2026 |
 | 🔒 **[CLOSED]** | Constellation | Astra Fellowship (Summer 2026) :lock: | AI Safety Fellowship | Berkeley, CA | :lock: | Apr 14, 2026 |
@@ -163,6 +164,7 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Organization | Opportunity | Type | Location | Application | Deadline |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | -------- |
+| 🔒 **[CLOSED]** | Deloitte | Compass Conference (Class of 2029-2030) :lock: | Career Conference (Fully Funded - Travel & Lodging Covered) | Westlake, TX | :lock: | Closed (May 26, 2026) |
 | 🔒 **[CLOSED]** | Gloria Barron Prize | Barron Prize for Young Heroes (Ages 8-18; Service/Environmental Leaders) :lock: | Leadership Award (25 × $10,000) | Remote | :lock: | Closed (April 30, 2026) |
 | 🔒 **[CLOSED]** | Jack Kent Cooke Foundation | Young Artist Award (Pre-Collegiate Musicians, Ages 8-18) :lock: | Music Award (up to $10,000) | Remote | :lock: | Closed (April 22, 2026) |
 | 🔒 **[CLOSED]** | Optimist International | Optimist International Essay Contest (Under 19; 700–800 word essay) — 2025-26 Cycle Closed | Scholarship ($2,500 + local/regional prizes) | Remote (via Local Optimist Club) | :lock: | Closed (April 15, 2026); reopens fall 2026 |
