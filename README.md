@@ -132,7 +132,6 @@ This is community-driven. If you find something, add it. Together we make the pa
 <!-- SCHOLARSHIPS_TABLE_START -->
 | Status | Organization | Scholarship | Amount | Application | Deadline |
 | ------ | ------------ | ----------- | ------ | ----------- | -------- |
-| ✅ **[OPEN]** | AUTO Project Scholars | Jesse L. Jackson Fellows Scholarship (Comprehensive Academic + Professional Support; Open to All Eligible Students) | Varies | <a href="https://autoprojectscholars.com/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Check site |
 | ✅ **[OPEN]** | Women & Hi Tech | Leading Light Awards Scholarships (Women in STEM; HS Seniors / Undergrads / Grads; Indiana-based or Attending Indiana School) | $1,000–$5,000 (Multiple Awards; $50K+ Total Pool) | <a href="https://womenandhitech.org/LLA"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | July 5, 2026 |
 | ✅ **[OPEN]** | MPOWER Financing | MPOWER Global Citizen Scholarship | $1,000 - $8,000 | <a href="https://www.mpowerfinancing.com/scholarships"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | August 31, 2026 |
 | ✅ **[OPEN]** | Last Mile Education Fund x Microsoft | Microsoft Cybersecurity Scholarship | Varies | <a href="https://www.lastmile-ed.org/microsoftcybersecurityscholarship"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Rolling |

@@ -114,6 +114,7 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Organization | Scholarship | Amount | Application | Deadline |
 | ------ | ------------ | ----------- | ------ | ----------- | -------- |
+| 🔒 **[CLOSED]** | AUTO Project Scholars | Jesse L. Jackson Fellows Scholarship (Comprehensive Academic + Professional Support; Open to All Eligible Students) :lock: | Varies | :lock: | Closed (2026 cycle) |
 | 🔒 **[CLOSED]** | Cruzing Forward | Cruzing Forward Scholarship :lock: | Varies | :lock: | Closed |
 | 🔒 **[CLOSED]** | American Indian College Fund | American Indian College Fund Scholarship (Tribal Enrollment/Descendancy; 2.0+ GPA) :lock: | Varies; thousands awarded | :lock: | Closed (May 31, 2026) |
 | 🔒 **[CLOSED]** | NAACP | Agnes Jones Jackson Scholarship (NAACP Member; Under 25; 2.5+ GPA) :lock: | Varies | :lock: | Closed (May 22, 2026) |
