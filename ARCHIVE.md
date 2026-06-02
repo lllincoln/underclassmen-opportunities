@@ -36,6 +36,7 @@ This page is a permanent record of every opportunity that has closed. These are 
 | Status | Company | Program | Type | Location | Application | Date Posted |
 | ------ | ------- | ------- | ---- | -------- | ----------- | ----------- |
 | 🔒 **[CLOSED]** | WomenTech Network | Women in Tech Global Conference 2026 (Event: May 12–15, 2026) :lock: | Conference | Virtual + Multiple Cities | :lock: | Mar 20, 2026 |
+| 🔒 **[CLOSED]** | AWS | Cloud Club Captain :lock: | Leadership Program | Multiple Locations | :lock: | Apr 06, 2026 |
 | 🔒 **[CLOSED]** | AWS (Amazon) | AWS AI & ML Scholars Program :lock: | Free AI/ML Education (18+; No Prior Experience Required) | Remote / Global | :lock: | Apr 19, 2026 |
 | 🔒 **[CLOSED]** | Basta | Code2Career :lock: | Career Mentorship Program (FGLI / First-Gen / Low-Income; Early College Tech Focus) | Remote | :lock: | May 28, 2026 |
 | 🔒 **[CLOSED]** | The Home Depot | Interconnected Agentic Workflow Externship :lock: | Externship via Extern.com (Project-Based; Resume-Building; Open to Undergrads) | Remote | :lock: | May 28, 2026 |
