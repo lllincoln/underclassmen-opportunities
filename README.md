@@ -149,7 +149,6 @@ This is community-driven. If you find something, add it. Together we make the pa
 | ✅ **[OPEN]** | Niche | $2,000 No-Essay Scholarship (Age 16+; HS Jr/Sr or College) | $2,000 | <a href="https://www.niche.com/colleges/scholarship/no-essay-scholarship/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Monthly drawings |
 | ✅ **[OPEN]** | Bold.org | "Be Bold" No-Essay Scholarship (Age 13+; Boldest Profile) | $25,000 | <a href="https://bold.org/scholarships/the-be-bold-no-essay-scholarship/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Monthly drawings |
 | ⏳ **[OPENS SOON]** | Point Foundation | Point Flagship Scholarship (LGBTQ+; Full-Time Undergrad/Grad) | ~$10,000/yr (renewable up to 4 yrs) | <a href="https://pointfoundation.org/scholarships/flagship"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | November 20, 2026 (Opens September 10, 2026) |
-| ✅ **[OPEN]** | Cruzing Forward | Cruzing Forward Scholarship — Deadline: Check site | Varies | <a href="https://lnkd.in/ef_NgA5B"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Check site |
 | ✅ **[OPEN]** | Unigo | Zombie Apocalypse Scholarship (Age 13+; Survival-Group Essay; 250-Word Plan) | $2,000 | <a href="https://www.unigo.com/scholarships/our-scholarships/zombie-apocalypse-scholarship"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | October 31, 2026 |
 <!-- SCHOLARSHIPS_TABLE_END -->
 
