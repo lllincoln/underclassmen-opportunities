@@ -23,6 +23,7 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Company | Role | Location | Application | Date Posted |
 | ------ | ------- | ---- | -------- | ----------- | ----------- |
+| 🔒 **[CLOSED]** | Harvard Black Advancement | HABA Summer Internship (Paid, $5,000 Stipend) :lock: | Remote / Hybrid | :lock: | Apr 14, 2026 |
 | 🔒 **[CLOSED]** | Partiful | Campus Growth Manager (US Spring 2026) :lock: | Remote, US | :lock: | Mar 27, 2026 |
 | 🔒 **[CLOSED]** | Micron | Intern - Automation :lock: | Boise, ID | :lock: | Mar 22, 2026 |
 | 🔒 **[CLOSED]** | Schonfeld | 2026 Quantitative Developer Execution Services Sophomore Summer Internship :lock: | New York, New York, United States | :lock: | Feb 20, 2026 |
@@ -34,6 +35,13 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Company | Program | Type | Location | Application | Date Posted |
 | ------ | ------- | ------- | ---- | -------- | ----------- | ----------- |
+| 🔒 **[CLOSED]** | WomenTech Network | Women in Tech Global Conference 2026 (Event: May 12–15, 2026) :lock: | Conference | Virtual + Multiple Cities | :lock: | Mar 20, 2026 |
+| 🔒 **[CLOSED]** | AWS | Cloud Club Captain :lock: | Leadership Program | Multiple Locations | :lock: | Apr 06, 2026 |
+| 🔒 **[CLOSED]** | AWS (Amazon) | AWS AI & ML Scholars Program :lock: | Free AI/ML Education (18+; No Prior Experience Required) | Remote / Global | :lock: | Apr 19, 2026 |
+| 🔒 **[CLOSED]** | Basta | Code2Career :lock: | Career Mentorship Program (FGLI / First-Gen / Low-Income; Early College Tech Focus) | Remote | :lock: | May 28, 2026 |
+| 🔒 **[CLOSED]** | The Home Depot | Interconnected Agentic Workflow Externship :lock: | Externship via Extern.com (Project-Based; Resume-Building; Open to Undergrads) | Remote | :lock: | May 28, 2026 |
+| 🔒 **[CLOSED]** | Google | Google Student Ambassador (California Only) :lock: | Campus Ambassador / Leadership Program (Gemini / Generative AI Advocacy; Mentorship from Googlers) | California (Campus-Based) | :lock: | May 28, 2026 |
+| 🔒 **[CLOSED]** | MLH (Major League Hacking) | MLH Commit Fellowship :lock: | Beginner-Friendly Fellowship (Open to Everyone; v1 2026) | Remote | :lock: | May 28, 2026 |
 | 🔒 **[CLOSED]** | Liberty Mutual | 2026 Spark Summit (Event: Aug 6–7, 2026) :lock: | Externship / Virtual Summit (Freshmen/Sophomores; Early Interview Access for TechStart 2027 Internship) | Remote, US | :lock: | Apr 21, 2026 |
 | 🔒 **[CLOSED]** | Deloitte | Compass Conference (Class of 2029-2030) :lock: | Career Conference | Westlake, TX | :lock: | Apr 14, 2026 |
 | 🔒 **[CLOSED]** | Datadog | DataPUPS Early ID Summit :lock: | Early ID Summit (Rising Sophomores; Class of 2029; CS/Technical; June 22–23, 2026) | New York, NY | :lock: | Apr 27, 2026 |
@@ -106,6 +114,9 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Organization | Scholarship | Amount | Application | Deadline |
 | ------ | ------------ | ----------- | ------ | ----------- | -------- |
+| 🔒 **[CLOSED]** | AUTO Project Scholars | Jesse L. Jackson Fellows Scholarship (Comprehensive Academic + Professional Support; Open to All Eligible Students) :lock: | Varies | :lock: | Closed (2026 cycle) |
+| 🔒 **[CLOSED]** | Cruzing Forward | Cruzing Forward Scholarship :lock: | Varies | :lock: | Closed |
+| 🔒 **[CLOSED]** | American Indian College Fund | American Indian College Fund Scholarship (Tribal Enrollment/Descendancy; 2.0+ GPA) :lock: | Varies; thousands awarded | :lock: | Closed (May 31, 2026) |
 | 🔒 **[CLOSED]** | NAACP | Agnes Jones Jackson Scholarship (NAACP Member; Under 25; 2.5+ GPA) :lock: | Varies | :lock: | Closed (May 22, 2026) |
 | 🔒 **[CLOSED]** | HACU | HACU Partner Scholarships (Hispanic Heritage; HACU-Member Colleges) :lock: | Varies; dozens of partner awards | :lock: | Closed (Rolling up to May 15, 2026 for most partners) |
 | 🔒 **[CLOSED]** | CrowdStrike | Next Gen Scholarship :lock: | Varies | :lock: | Closed (April 27, 2026) |
@@ -136,6 +147,7 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
+| 🔒 **[CLOSED]** | Harvard Black Advancement | HABA Summer Internship (Paid, $5,000 Stipend) :lock: | Paid Internship | Remote / Hybrid | :lock: | Apr 14, 2026 |
 | 🔒 **[CLOSED]** | Thurgood Marshall College Fund / Chevron | TMCF Chevron Energy Summit 2026 :lock: | Energy Summit (Freshmen/Sophomores/Juniors at HBCU or PBI; US Citizens; Event: Aug 10–14, 2026) | Houston, TX | :lock: | Apr 24, 2026 |
 | 🔒 **[CLOSED]** | Thurgood Marshall College Fund | TMCF Leadership Institute 2026 :lock: | Conference + Recruitment (All Majors) | Washington, DC | :lock: | Apr 15, 2026 |
 | 🔒 **[CLOSED]** | Arise And Shine Foundation | Arise & Shine HBCU Coding Bootcamp & E.S.T.E.A.M.ED Summit :lock: | Free Coding Bootcamp (Rising Sophomores–Seniors; All Majors; $50K Scholarship Pool; June 7–12, 2026) | Tallahassee, FL (FAMU) | :lock: | Apr 27, 2026 |
@@ -153,6 +165,7 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
+| 🔒 **[CLOSED]** | WomenTech Network | Women in Tech Global Conference 2026 (Event: May 12–15, 2026) :lock: | Conference | Virtual + Multiple Cities | :lock: | Mar 20, 2026 |
 | 🔒 **[CLOSED]** | Google | Women Techmakers Scholarship 2026 — Deadline: Closed (May 22, 2026) :lock: | Scholarship ($10,000; CS/Gaming) | Remote | :lock: | Apr 15, 2026 |
 | 🔒 **[CLOSED]** | Technica | Technica Virtual Fellowship :lock: | 8-Week Fellowship (June 26–Aug 14; Rising College Freshmen; Underrepresented Genders; DC/MD/VA; Free) | Remote (Zoom) | :lock: | Apr 19, 2026 |
 | 🔒 **[CLOSED]** | Forté Foundation | Forté Rising Stars (All Majors - Business Career Prep) :lock: | Program (Free Membership) | Remote | :lock: | Apr 15, 2026 |
