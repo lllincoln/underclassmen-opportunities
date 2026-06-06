@@ -170,6 +170,7 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
+| 🔒 **[CLOSED]** | Latinas in Tech | LiT Summit 2026 :lock: | Tech Summit (Latinas in Tech; SHPE Partnership Free Tickets) | Check site | :lock: | May 01, 2026 |
 | 🔒 **[CLOSED]** | WomenTech Network | Women in Tech Global Conference 2026 (Event: May 12–15, 2026) :lock: | Conference | Virtual + Multiple Cities | :lock: | Mar 20, 2026 |
 | 🔒 **[CLOSED]** | Google | Women Techmakers Scholarship 2026 — Deadline: Closed (May 22, 2026) :lock: | Scholarship ($10,000; CS/Gaming) | Remote | :lock: | Apr 15, 2026 |
 | 🔒 **[CLOSED]** | Technica | Technica Virtual Fellowship :lock: | 8-Week Fellowship (June 26–Aug 14; Rising College Freshmen; Underrepresented Genders; DC/MD/VA; Free) | Remote (Zoom) | :lock: | Apr 19, 2026 |
