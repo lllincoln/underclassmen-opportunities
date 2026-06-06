@@ -157,7 +157,6 @@ Opportunities specifically designed for students attending Historically Black Co
 | ✅ **[OPEN]** | Thurgood Marshall College Fund | TMCF Hennessy Fellows Program - Cohort 8 (2026) — Deadline: Check site | Fellowship (Graduating Seniors & MBA) | HBCU-Affiliated | <a href="https://whosnext.tmcf.org/jobs/1622?lang=en-us"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 15, 2026 |
 | ⏳ **[OPENS SOON]** | White House Initiative on HBCUs | White House HBCU Scholars Program (All Majors) — "Application Coming 2026" | Recognition / Fellowship | Remote | <a href="https://sites.ed.gov/whhbcu/whihbcu-competitiveness-scholars/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 15, 2026 |
 | ✅ **[OPEN]** | UNCF | UNCF Scholarships Portal (All Majors — STEM, Business, Arts, Humanities) — Deadline: Rolling | Scholarship Hub (Rolling; STEM up to $25K open for 2026-27) | Remote | <a href="https://opportunities.uncf.org/s/pre-login-welcome-page"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 15, 2026 |
-| ✅ **[OPEN]** | HBCUniverse | HBCU Universe Campus Ambassadors 2026 — Deadline: Check site | Ambassador Program (HBCU Students) | Remote / Campus | <a href="https://lnkd.in/efpyNpUi"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 21, 2026 |
 <!-- HBCU_TABLE_END -->
 
 ---
