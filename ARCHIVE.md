@@ -23,6 +23,7 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Company | Role | Location | Application | Date Posted |
 | ------ | ------- | ---- | -------- | ----------- | ----------- |
+| 🔒 **[CLOSED]** | Five Rings LLC | Winter Intern 2027 - Quantitative Trader :lock: | New York | :lock: | Feb 20, 2026 |
 | 🔒 **[CLOSED]** | Harvard Black Advancement | HABA Summer Internship (Paid, $5,000 Stipend) :lock: | Remote / Hybrid | :lock: | Apr 14, 2026 |
 | 🔒 **[CLOSED]** | Partiful | Campus Growth Manager (US Spring 2026) :lock: | Remote, US | :lock: | Mar 27, 2026 |
 | 🔒 **[CLOSED]** | Micron | Intern - Automation :lock: | Boise, ID | :lock: | Mar 22, 2026 |
@@ -35,6 +36,9 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Company | Program | Type | Location | Application | Date Posted |
 | ------ | ------- | ------- | ---- | -------- | ----------- | ----------- |
+| 🔒 **[CLOSED]** | Harvard | Harvard Africa College Conference 2026 :lock: | Undergrad-Only Conference (African Students; First-of-Its-Kind at Harvard) | Cambridge, MA | :lock: | May 28, 2026 |
+| 🔒 **[CLOSED]** | Figma | FigFest 2026 :lock: | Curated In-Person Evening Event (Early-Career: Interns + Early-in-Career; Engineering / Design / Data Science) | Check site | :lock: | May 28, 2026 |
+| 🔒 **[CLOSED]** | Dominion Energy | CESC 2026 — Careers in Energy Student Conference :lock: | Student Conference (Networking; Open to Undergrads) | Richmond, VA | :lock: | May 28, 2026 |
 | 🔒 **[CLOSED]** | WomenTech Network | Women in Tech Global Conference 2026 (Event: May 12–15, 2026) :lock: | Conference | Virtual + Multiple Cities | :lock: | Mar 20, 2026 |
 | 🔒 **[CLOSED]** | AWS | Cloud Club Captain :lock: | Leadership Program | Multiple Locations | :lock: | Apr 06, 2026 |
 | 🔒 **[CLOSED]** | AWS (Amazon) | AWS AI & ML Scholars Program :lock: | Free AI/ML Education (18+; No Prior Experience Required) | Remote / Global | :lock: | Apr 19, 2026 |
@@ -88,6 +92,7 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | University/Organization | Program | Field | Location | Application | Date Posted |
 | ------ | ----------------------- | ------- | ----- | -------- | ----------- | ----------- |
+| 🔒 **[CLOSED]** | Smith-Kettlewell Eye Research Institute | Fourth Annual Smith-Kettlewell Summer Research Institute :lock: | Undergraduate Vision Science Research (Mentored Research; Summer Institute) | San Francisco, CA | :lock: | May 28, 2026 |
 | 🔒 **[CLOSED]** | CRA-WP | DREU-QIS & AI 2026 :lock: | Quantum Information Science / AI | Multiple Locations | :lock: | Apr 06, 2026 |
 | 🔒 **[CLOSED]** | CBAI | Summer Research Fellowship in AI Safety '26 :lock: | AI Safety | Cambridge, MA | :lock: | Apr 06, 2026 |
 | 🔒 **[CLOSED]** | MIT Libraries | Women@MIT Fellowship :lock: | Women's History / STEM | Cambridge, MA | :lock: | Mar 27, 2026 |
@@ -147,6 +152,7 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
+| 🔒 **[CLOSED]** | HBCUniverse | HBCU Universe Campus Ambassadors 2026 :lock: | Ambassador Program (HBCU Students) | Remote / Campus | :lock: | Apr 21, 2026 |
 | 🔒 **[CLOSED]** | Harvard Black Advancement | HABA Summer Internship (Paid, $5,000 Stipend) :lock: | Paid Internship | Remote / Hybrid | :lock: | Apr 14, 2026 |
 | 🔒 **[CLOSED]** | Thurgood Marshall College Fund / Chevron | TMCF Chevron Energy Summit 2026 :lock: | Energy Summit (Freshmen/Sophomores/Juniors at HBCU or PBI; US Citizens; Event: Aug 10–14, 2026) | Houston, TX | :lock: | Apr 24, 2026 |
 | 🔒 **[CLOSED]** | Thurgood Marshall College Fund | TMCF Leadership Institute 2026 :lock: | Conference + Recruitment (All Majors) | Washington, DC | :lock: | Apr 15, 2026 |
@@ -165,6 +171,7 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
+| 🔒 **[CLOSED]** | Latinas in Tech | LiT Summit 2026 :lock: | Tech Summit (Latinas in Tech; SHPE Partnership Free Tickets) | Check site | :lock: | May 01, 2026 |
 | 🔒 **[CLOSED]** | WomenTech Network | Women in Tech Global Conference 2026 (Event: May 12–15, 2026) :lock: | Conference | Virtual + Multiple Cities | :lock: | Mar 20, 2026 |
 | 🔒 **[CLOSED]** | Google | Women Techmakers Scholarship 2026 — Deadline: Closed (May 22, 2026) :lock: | Scholarship ($10,000; CS/Gaming) | Remote | :lock: | Apr 15, 2026 |
 | 🔒 **[CLOSED]** | Technica | Technica Virtual Fellowship :lock: | 8-Week Fellowship (June 26–Aug 14; Rising College Freshmen; Underrepresented Genders; DC/MD/VA; Free) | Remote (Zoom) | :lock: | Apr 19, 2026 |
