@@ -38,6 +38,7 @@ This page is a permanent record of every opportunity that has closed. These are 
 | ------ | ------- | ------- | ---- | -------- | ----------- | ----------- |
 | 🔒 **[CLOSED]** | Neo | Neo Scholars :lock: | CS Undergrad Program (Open to Undergrads Who Excel at CS) | San Francisco, CA / Remote | :lock: | May 28, 2026 |
 | 🔒 **[CLOSED]** | Paradigm | Paradigm Fellowship 2026 (Event: Aug 12–15, 2026) :lock: | 4-Day Retreat (Undergrads / Early Career Builders; Technical; Travel + Lodging + Meals Covered) | Northern California | :lock: | May 01, 2026 |
+| 🔒 **[CLOSED]** | Kaggle / Google | Kaggle GenAI Intensive: Vibe Coding (Event: Jun 15–19, 2026) :lock: | Free Online Course (AI Agents; Vibe Coding; Open to All; No Prior Experience Required) | Remote | :lock: | May 01, 2026 |
 | 🔒 **[CLOSED]** | Harvard | Harvard Africa College Conference 2026 :lock: | Undergrad-Only Conference (African Students; First-of-Its-Kind at Harvard) | Cambridge, MA | :lock: | May 28, 2026 |
 | 🔒 **[CLOSED]** | Figma | FigFest 2026 :lock: | Curated In-Person Evening Event (Early-Career: Interns + Early-in-Career; Engineering / Design / Data Science) | Check site | :lock: | May 28, 2026 |
 | 🔒 **[CLOSED]** | Dominion Energy | CESC 2026 — Careers in Energy Student Conference :lock: | Student Conference (Networking; Open to Undergrads) | Richmond, VA | :lock: | May 28, 2026 |
