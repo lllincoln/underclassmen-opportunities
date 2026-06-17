@@ -95,6 +95,7 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | University/Organization | Program | Field | Location | Application | Date Posted |
 | ------ | ----------------------- | ------- | ----- | -------- | ----------- | ----------- |
+| 🔒 **[CLOSED]** | Carnegie Mellon University | CMU Quantum Summer Academy :lock: | Quantum Computing / Research Academy (Undergrads) | Pittsburgh, PA | :lock: | May 28, 2026 |
 | 🔒 **[CLOSED]** | Smith-Kettlewell Eye Research Institute | Fourth Annual Smith-Kettlewell Summer Research Institute :lock: | Undergraduate Vision Science Research (Mentored Research; Summer Institute) | San Francisco, CA | :lock: | May 28, 2026 |
 | 🔒 **[CLOSED]** | CRA-WP | DREU-QIS & AI 2026 :lock: | Quantum Information Science / AI | Multiple Locations | :lock: | Apr 06, 2026 |
 | 🔒 **[CLOSED]** | CBAI | Summer Research Fellowship in AI Safety '26 :lock: | AI Safety | Cambridge, MA | :lock: | Apr 06, 2026 |
