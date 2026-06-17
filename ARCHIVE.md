@@ -200,6 +200,7 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Organization | Opportunity | Type | Location | Application | Deadline |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | -------- |
+| 🔒 **[CLOSED]** | Duck Brand | Stuck at Prom Scholarship (Ages 14+; HS/Home-School; Duct-Tape Prom Attire) :lock: | Contest ($1,000–$10,000; up to $15K total) | US (excl. MD/CO/NE/ND) + Canada (excl. QC) | :lock: | Closed (June 3, 2026) |
 | 🔒 **[CLOSED]** | Deloitte | Compass Conference (Class of 2029-2030) :lock: | Career Conference (Fully Funded - Travel & Lodging Covered) | Westlake, TX | :lock: | Closed (May 26, 2026) |
 | 🔒 **[CLOSED]** | Technica | Technica Virtual Fellowship (Rising Freshmen; Class of 2030; Underrepresented Genders; DC/MD/VA) :lock: | 8-Week Fellowship (June 26–Aug 14; Fully Remote; Free) | Remote (Zoom) | :lock: | Check site (link broken) |
 | 🔒 **[CLOSED]** | Gloria Barron Prize | Barron Prize for Young Heroes (Ages 8-18; Service/Environmental Leaders) :lock: | Leadership Award (25 × $10,000) | Remote | :lock: | Closed (April 30, 2026) |
