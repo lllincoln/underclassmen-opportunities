@@ -36,6 +36,7 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Company | Program | Type | Location | Application | Date Posted |
 | ------ | ------- | ------- | ---- | -------- | ----------- | ----------- |
+| 🔒 **[CLOSED]** | Neo | Neo Scholars :lock: | CS Undergrad Program (Open to Undergrads Who Excel at CS) | San Francisco, CA / Remote | :lock: | May 28, 2026 |
 | 🔒 **[CLOSED]** | Harvard | Harvard Africa College Conference 2026 :lock: | Undergrad-Only Conference (African Students; First-of-Its-Kind at Harvard) | Cambridge, MA | :lock: | May 28, 2026 |
 | 🔒 **[CLOSED]** | Figma | FigFest 2026 :lock: | Curated In-Person Evening Event (Early-Career: Interns + Early-in-Career; Engineering / Design / Data Science) | Check site | :lock: | May 28, 2026 |
 | 🔒 **[CLOSED]** | Dominion Energy | CESC 2026 — Careers in Energy Student Conference :lock: | Student Conference (Networking; Open to Undergrads) | Richmond, VA | :lock: | May 28, 2026 |
