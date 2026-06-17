@@ -111,7 +111,6 @@ This is community-driven. If you find something, add it. Together we make the pa
 <!-- RESEARCH_TABLE_START -->
 | Status | University/Organization | Program | Field | Location | Application | Date Posted |
 | ------ | ----------------------- | ------- | ----- | -------- | ----------- | ----------- |
-| 🔥 **[CLOSING SOON]** | Carnegie Mellon University | CMU Quantum Summer Academy — Deadline: Check site (Flyer) | Quantum Computing / Research Academy (Undergrads) | Pittsburgh, PA | <a href="https://www.cs.cmu.edu/afs/cs/project/careers/www/posters/CMU-Quantum-Summer-Academy-flyer.pdf"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | May 28, 2026 |
 | ✅ **[OPEN]** | UMass Amherst | QNumerics 2026: Numerical Methods in Quantum Information Science — Deadline: Check site (Jun 21–27, 2026) | Quantum Information Science / Computational Skills (Undergrads Admitted Case-by-Case; Free for Undergrads) | Amherst, MA | <a href="https://qnumerics.org/2026/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | May 01, 2026 |
 <!-- RESEARCH_TABLE_END -->
 
