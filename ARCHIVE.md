@@ -36,6 +36,14 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Company | Program | Type | Location | Application | Date Posted |
 | ------ | ------- | ------- | ---- | -------- | ----------- | ----------- |
+| 🔒 **[CLOSED]** | Five Rings LLC | LINK 2026 — Software Development Intensive (Event: Aug 10–14, 2026) :lock: | 5-Day Intensive (Current Sophomores Only) | New York, NY | :lock: | May 28, 2026 |
+| 🔒 **[CLOSED]** | Out in Tech | Out in Tech U Launch Lab :lock: | Free 5-Session Virtual Cohort (LGBTQ+; Ages 18–25; Leadership + Mentorship; No Prior Experience Required) | Virtual | :lock: | May 28, 2026 |
+| 🔒 **[CLOSED]** | Capital One | Product Summit (Summer 2026) :lock: | Virtual Summit (Freshmen/Sophomores) | Virtual | :lock: | Apr 16, 2026 |
+| 🔒 **[CLOSED]** | GirlScript Foundation | GSSoC 2026 - GirlScript Summer of Code :lock: | Open Source Program | Remote | :lock: | Apr 11, 2026 |
+| 🔒 **[CLOSED]** | Y Combinator | Startup School 2026 :lock: | Online Course + Event | San Francisco, CA / Remote | :lock: | Apr 08, 2026 |
+| 🔒 **[CLOSED]** | Neo | Neo Scholars :lock: | CS Undergrad Program (Open to Undergrads Who Excel at CS) | San Francisco, CA / Remote | :lock: | May 28, 2026 |
+| 🔒 **[CLOSED]** | Paradigm | Paradigm Fellowship 2026 (Event: Aug 12–15, 2026) :lock: | 4-Day Retreat (Undergrads / Early Career Builders; Technical; Travel + Lodging + Meals Covered) | Northern California | :lock: | May 01, 2026 |
+| 🔒 **[CLOSED]** | Kaggle / Google | Kaggle GenAI Intensive: Vibe Coding (Event: Jun 15–19, 2026) :lock: | Free Online Course (AI Agents; Vibe Coding; Open to All; No Prior Experience Required) | Remote | :lock: | May 01, 2026 |
 | 🔒 **[CLOSED]** | Harvard | Harvard Africa College Conference 2026 :lock: | Undergrad-Only Conference (African Students; First-of-Its-Kind at Harvard) | Cambridge, MA | :lock: | May 28, 2026 |
 | 🔒 **[CLOSED]** | Figma | FigFest 2026 :lock: | Curated In-Person Evening Event (Early-Career: Interns + Early-in-Career; Engineering / Design / Data Science) | Check site | :lock: | May 28, 2026 |
 | 🔒 **[CLOSED]** | Dominion Energy | CESC 2026 — Careers in Energy Student Conference :lock: | Student Conference (Networking; Open to Undergrads) | Richmond, VA | :lock: | May 28, 2026 |
@@ -92,6 +100,7 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | University/Organization | Program | Field | Location | Application | Date Posted |
 | ------ | ----------------------- | ------- | ----- | -------- | ----------- | ----------- |
+| 🔒 **[CLOSED]** | Carnegie Mellon University | CMU Quantum Summer Academy :lock: | Quantum Computing / Research Academy (Undergrads) | Pittsburgh, PA | :lock: | May 28, 2026 |
 | 🔒 **[CLOSED]** | Smith-Kettlewell Eye Research Institute | Fourth Annual Smith-Kettlewell Summer Research Institute :lock: | Undergraduate Vision Science Research (Mentored Research; Summer Institute) | San Francisco, CA | :lock: | May 28, 2026 |
 | 🔒 **[CLOSED]** | CRA-WP | DREU-QIS & AI 2026 :lock: | Quantum Information Science / AI | Multiple Locations | :lock: | Apr 06, 2026 |
 | 🔒 **[CLOSED]** | CBAI | Summer Research Fellowship in AI Safety '26 :lock: | AI Safety | Cambridge, MA | :lock: | Apr 06, 2026 |
@@ -152,6 +161,7 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
+| 🔒 **[CLOSED]** | Thurgood Marshall College Fund | TMCF Hennessy Fellows Program - Cohort 8 (2026) :lock: | Fellowship (Graduating Seniors & MBA) | HBCU-Affiliated | :lock: | Apr 15, 2026 |
 | 🔒 **[CLOSED]** | HBCUniverse | HBCU Universe Campus Ambassadors 2026 :lock: | Ambassador Program (HBCU Students) | Remote / Campus | :lock: | Apr 21, 2026 |
 | 🔒 **[CLOSED]** | Harvard Black Advancement | HABA Summer Internship (Paid, $5,000 Stipend) :lock: | Paid Internship | Remote / Hybrid | :lock: | Apr 14, 2026 |
 | 🔒 **[CLOSED]** | Thurgood Marshall College Fund / Chevron | TMCF Chevron Energy Summit 2026 :lock: | Energy Summit (Freshmen/Sophomores/Juniors at HBCU or PBI; US Citizens; Event: Aug 10–14, 2026) | Houston, TX | :lock: | Apr 24, 2026 |
@@ -171,6 +181,7 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
+| 🔒 **[CLOSED]** | GirlScript Foundation | GSSoC 2026 - GirlScript Summer of Code :lock: | Open Source Program (Women-Led; Gender-Inclusive) | Remote | :lock: | Apr 11, 2026 |
 | 🔒 **[CLOSED]** | Latinas in Tech | LiT Summit 2026 :lock: | Tech Summit (Latinas in Tech; SHPE Partnership Free Tickets) | Check site | :lock: | May 01, 2026 |
 | 🔒 **[CLOSED]** | WomenTech Network | Women in Tech Global Conference 2026 (Event: May 12–15, 2026) :lock: | Conference | Virtual + Multiple Cities | :lock: | Mar 20, 2026 |
 | 🔒 **[CLOSED]** | Google | Women Techmakers Scholarship 2026 — Deadline: Closed (May 22, 2026) :lock: | Scholarship ($10,000; CS/Gaming) | Remote | :lock: | Apr 15, 2026 |
@@ -191,6 +202,7 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Organization | Opportunity | Type | Location | Application | Deadline |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | -------- |
+| 🔒 **[CLOSED]** | Duck Brand | Stuck at Prom Scholarship (Ages 14+; HS/Home-School; Duct-Tape Prom Attire) :lock: | Contest ($1,000–$10,000; up to $15K total) | US (excl. MD/CO/NE/ND) + Canada (excl. QC) | :lock: | Closed (June 3, 2026) |
 | 🔒 **[CLOSED]** | Deloitte | Compass Conference (Class of 2029-2030) :lock: | Career Conference (Fully Funded - Travel & Lodging Covered) | Westlake, TX | :lock: | Closed (May 26, 2026) |
 | 🔒 **[CLOSED]** | Technica | Technica Virtual Fellowship (Rising Freshmen; Class of 2030; Underrepresented Genders; DC/MD/VA) :lock: | 8-Week Fellowship (June 26–Aug 14; Fully Remote; Free) | Remote (Zoom) | :lock: | Check site (link broken) |
 | 🔒 **[CLOSED]** | Gloria Barron Prize | Barron Prize for Young Heroes (Ages 8-18; Service/Environmental Leaders) :lock: | Leadership Award (25 × $10,000) | Remote | :lock: | Closed (April 30, 2026) |
